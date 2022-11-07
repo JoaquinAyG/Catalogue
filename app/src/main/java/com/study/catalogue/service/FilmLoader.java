@@ -37,7 +37,7 @@ public class FilmLoader {
     }
 
     private Film parseFilm(String line) {
-        String[] fields = line.split(",");
+        String[] fields = line.split(";");
         int id = (int)Float.parseFloat(fields[0]);
         String title = fields[1];
         int runningTime = (int)Float.parseFloat(fields[2]);
@@ -45,8 +45,8 @@ public class FilmLoader {
         float boxOffice = Float.parseFloat(fields[4]);
         String releaseDate2 = fields[5];
         String directedBy = fields[6];
-        String producedBy = fields[8];
-        String musicBy = fields[9];
+        String producedBy = fields[7];
+        String musicBy = fields[8];
         return new Film(id, title, runningTime, budget, boxOffice, releaseDate2, directedBy, producedBy, musicBy);
     }
 

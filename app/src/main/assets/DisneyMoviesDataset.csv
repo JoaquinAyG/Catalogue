@@ -1,254 +1,254 @@
-,title,Running time (int),Budget (float),Box office (float),Release date (datetime),Directed by,Produced by,Music by
-1,Snow White and the Seven Dwarfs,83.0,1490000.0,418000000.0,1937-12-21,"['David Hand (supervising)', 'William Cottrell', 'Wilfred Jackson', 'Larry Morey', 'Perce Pearce', 'Ben Sharpsteen']",Walt Disney,"['Frank Churchill', 'Paul Smith', 'Leigh Harline']"
-2,Pinocchio,88.0,2600000.0,164000000.0,1940-02-07,"['Ben Sharpsteen', 'Hamilton Luske', 'Bill Roberts', 'Norman Ferguson', 'Jack Kinney', 'Wilfred Jackson', 'T. Hee']",Walt Disney,"['Leigh Harline', 'Paul J. Smith']"
-3,Fantasia,126.0,2280000.0,83300000.0,1940-11-13,"['Samuel Armstrong', 'James Algar', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'David D. Hand', 'Hamilton Luske', 'Jim Handley', 'Ford Beebe', 'T. Hee', 'Norman Ferguson', 'Wilfred Jackson']","['Walt Disney', 'Ben Sharpsteen']",See program
-4,The Reluctant Dragon,74.0,600000.0,960000.0,1941-06-20,"['Alfred Werker', '(live action)', 'Hamilton Luske', '(animation)', 'Jack Cutting', ',', 'Ub Iwerks', ',', 'Jack Kinney', '(sequence directors)']",Walt Disney,"['Frank Churchill', 'Larry Morey']"
-5,Dumbo,64.0,950000.0,1300000.0,1941-10-23,"['Supervising director:', 'Ben Sharpsteen', 'Sequence directors:', 'Norman Ferguson', 'Wilfred Jackson', 'Bill Roberts', 'Jack Kinney', 'Samuel Armstrong']",Walt Disney,"['Frank Churchill', 'Oliver Wallace']"
-6,Bambi,70.0,858000.0,267399999.99999997,1942-08-09,"['Supervising director', 'David Hand', 'Sequence directors', 'James Algar', 'Samuel Armstrong', 'Graham Heid', 'Bill Roberts', 'Paul Satterfield', 'Norman Wright']",Walt Disney,"['Frank Churchill', 'Edward H. Plumb']"
-8,Victory Through Air Power,65.0,788000.0,799000.0,1943-07-17,"['Animated sequences:', 'James Algar', 'Clyde Geronimi', 'Jack Kinney', 'de Seversky scenes:', 'H.C. Potter']",Walt Disney,"['Edward H. Plumb', 'Paul J. Smith', 'Oliver Wallace']"
-10,Make Mine Music,75.0,1350000.0,3275000.0,1946-04-20,"['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Joshua Meador', 'Robert Cormack']",Walt Disney,"['Eliot Daniel', 'Ken Darby', 'Charles Wolcott', 'Oliver Wallace', 'Edward Plumb']"
-11,Song of the South,94.0,2125000.0,65000000.0,1946-11-12,"['Live action:', 'Harve Foster', 'Animation:', 'Wilfred Jackson']",Walt Disney,"['Edward Plumb', 'Daniele Amfitheatrof', 'Paul J. Smith', 'Charles Wolcott']"
-13,Melody Time,75.0,1500000.0,2560000.0,1948-05-27,"['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson']",Walt Disney,"['Eliot Daniel', 'Paul J. Smith', 'Ken Darby']"
-14,So Dear to My Heart,82.0,1500000.0,3700000.0,1948-11-29,"['Harold D. Schuster', 'Hamilton Luske']","['Walt Disney', 'Perce Pearce']",Paul Smith
-16,Cinderella,74.0,2900000.0,263600000.00000003,1950-02-15,"['Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson']",Walt Disney,"['Oliver Wallace', 'Paul J. Smith']"
-17,Treasure Island,96.0,1800000.0,4100000.0,1950-06-22,Byron Haskin,"['Walt Disney', 'Perce Pearce']",Clifton Parker
-18,Alice in Wonderland,75.0,3000000.0,5600000.0,1951-07-26,"['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']",Walt Disney,Oliver Wallace
-20,Peter Pan,77.0,4000000.0,87400000.0,1953-02-05,"['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']",Walt Disney,Oliver Wallace
-21,The Sword and the Rose,92.0,2000000.0,1000000.0,1953-08-08,Ken Annakin,"['Perce Pearce', 'Walt Disney']",Clifton Parker
-22,The Living Desert,69.0,300000.0,2600000.0,1953-11-10,James Algar,"['Ben Sharpsteen', 'Walt Disney']",Paul J. Smith
-25,"20,000 Leagues Under the Sea",127.0,5000000.0,28200000.0,1954-12-23,Richard Fleischer,Walt Disney,"['Paul Smith', 'Joseph S. Dubin', '(orchestration)']"
-27,Lady and the Tramp,76.0,4000000.0,187000000.0,1955-06-22,"['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske']",Walt Disney,Oliver Wallace
-40,Sleeping Beauty,75.0,6000000.0,51600000.0,1959-01-29,"['Clyde Geronimi (supervising)', 'Eric Larson', 'Wolfgang Reitherman', 'Les Clark']",Walt Disney,George Bruns (adapted from Tchaikovsky's Sleeping Beauty Ballet )
-41,The Shaggy Dog,104.0,1000000.0,12300000.0,1959-03-19,Charles Barton,"['Walt Disney', 'Bill Walsh']",Paul J. Smith
-43,Third Man on the Mountain,105.0,2000000.0,1700000.0,1959-11-10,Ken Annakin,"['Bill Anderson', 'Walt Disney']",William Alwyn
-46,Pollyanna,134.0,2500000.0,3750000.0,1960-05-19,David Swift,"['David Swift', 'Walt Disney', 'Associate Producer:', 'George Golitzen']",Paul Smith (Score)
-49,Swiss Family Robinson,126.0,4000000.0,40000000.0,1960-12-21,"['John McKimson', 'Ken Annakin']","['Bill Anderson', 'Basil Keys', 'Walt Disney']","['William Alwyn', '(composer)', 'Muir Mathieson', '(conductor)']"
-50,One Hundred and One Dalmatians,79.0,3600000.0,303000000.0,1961-01-25,"['Clyde Geronimi', 'Hamilton Luske', 'Wolfgang Reitherman']",Walt Disney,George Bruns
-55,Babes in Toyland,105.0,3000000.0,4600000.0,1961-12-14,Jack Donohue,Walt Disney,"['Victor Herbert', 'George Bruns', 'Mel Leven (new lyrics)']"
-57,Bon Voyage!,130.0,3000000.0,5000000.0,1962-05-17,James Neilson,Walt Disney,Paul Smith
-67,The Sword in the Stone,79.0,3000000.0,22200000.0,1963-12-25,Wolfgang Reitherman,Walt Disney,George Bruns
-72,Mary Poppins,139.0,4400000.0,103100000.0,1964-08-27,Robert Stevenson,Walt Disney,"['Richard M. Sherman (songs)', 'Robert B. Sherman (songs)', 'Irwin Kostal (score)']"
-84,The Jungle Book,78.0,4000000.0,378000000.0,1967-10-18,Wolfgang Reitherman,Walt Disney,George Bruns
-86,The Happiest Millionaire,164.0,5000000.0,5000000.0,1967-06-23,Norman Tokar,"['Walt Disney', 'Bill Anderson']","['Songs:', 'Score:', 'Jack Elliott']"
-91,The Love Bug,108.0,5000000.0,51264000.0,1968-12-24,Robert Stevenson,Bill Walsh,George Bruns
-98,The Aristocats,79.0,4000000.0,191000000.0,1970-12-11,Wolfgang Reitherman,"['Winston Hibler', 'Wolfgang Reitherman']",George Bruns
-102,Bedknobs and Broomsticks,118.0,6300000.0,17900000.0,1971-10-07,Robert Stevenson,Bill Walsh,Irwin Kostal
-111,Robin Hood,83.0,5000000.0,32000000.0,1973-11-08,Wolfgang Reitherman,Wolfgang Reitherman,George Bruns
-116,The Island at the Top of the World,93.0,8000000.0,10000000.0,1974-12-20,Robert Stevenson,Winston Hibler,Maurice Jarre
-127,Freaky Friday,95.0,5000000.0,36000000.0,1976-12-17,Gary Nelson,Ron Miller,Johnny Mandel
-131,The Rescuers,77.0,7500000.0,169000000.0,1977-06-22,"['Wolfgang Reitherman', 'John Lounsbery', 'Art Stevens']","['Wolfgang Reitherman', 'Ron W. Miller']",Artie Butler
-133,Pete's Dragon,128.0,10000000.0,36.0,1977-11-03,Don Chaffey,"['Jerome Courtland', 'Ron W. Miller']",Irwin Kostal
-141,The Black Hole,98.0,20000000.0,35800000.0,1979-12-18,Gary Nelson,Ron Miller,John Barry
-144,The Watcher in the Woods,84.0,9000000.0,5000000.0,1980-04-17,"['John Hough', 'Vincent McEveety (uncredited)']",Ron Miller,Stanley Myers
-146,The Last Flight of Noah's Ark,97.0,6000000.0,11000000.0,1980-07-09,Charles Jarrott,"['Ron Miller', 'Jan Williams']",Maurice Jarre
-147,Popeye,114.0,20000000.0,60000000.0,1980-12-06,Robert Altman,Robert Evans,Harry Nilsson
-150,Dragonslayer,109.0,18000000.0,14100000.0,1981-06-26,Matthew Robbins,"['Hal Barwood', 'Howard W. Koch']",Alex North
-151,The Fox and the Hound,83.0,12000000.0,63500000.0,1981-07-10,"['Ted Berman', 'Richard Rich', 'Art Stevens']","['Ron Miller', 'Wolfgang Reitherman', 'Art Stevens']",Buddy Baker
-155,Tex,103.0,5000000.0,7400000.0,1982-07-30,Tim Hunter,"['Tim Zinnemann', 'Ron Miller']",Pino Donaggio
-157,Something Wicked This Way Comes,95.0,19000000.0,8400000.0,1983-04-29,Jack Clayton,Peter Douglas,James Horner
-158,Never Cry Wolf,105.0,11000000.0,27600000.0,1983-10-07,Carroll Ballard,"['Lewis Allen', 'Jack Couffer', 'Joseph Strick']",Mark Isham
-159,Return to Oz,113.0,28000000.0,11100000.0,1985-06-21,Walter Murch,Paul Maslansky,David Shire
-160,The Black Cauldron,80.0,25000000.0,21300000.0,1985-07-26,"['Ted Berman', 'Richard Rich']","['Joe Hale', 'Ron Miller']",Elmer Bernstein
-163,The Great Mouse Detective,74.0,14000000.0,38700000.0,1986-07-02,"['Ron Clements', 'Burny Mattinson', 'Dave Michener', 'John Musker']",Burny Mattinson,Henry Mancini
-164,Flight of the Navigator,90.0,9000000.0,18564613.0,1986-08-01,Randal Kleiser,"['Dimitri Villard', 'Robert Wald']",Alan Silvestri
-166,The Man from Snowy River II,110.0,8700000.0,13687027.0,1988-03-24,Geoff Burrowes,Geoff Burrowes,Bruce Rowland
-168,"Honey, I Shrunk the Kids",93.0,18000000.0,222700000.0,1989-06-23,Joe Johnston,Penney Finkelman Cox,James Horner
-169,Cheetah,84.0,5000000.0,8153677.0,1989-08-18,Jeff Blyth,"['Roy E. Disney', 'Robert Halmi, Sr.']",Bruce Rowland
-171,DuckTales the Movie: Treasure of the Lost Lamp,69.0,20000000.0,18100000.0,1990-08-03,Bob Hathcock,"['Bob Hathcock', 'Jean-Pierre Quenet']",David Newman
-173,White Fang,107.0,14000000.0,34800000.0,1991-01-18,Randal Kleiser,Markay Powell,"['Basil Poledouris', 'Hans Zimmer', '(additional music)']"
-174,Shipwrecked,93.0,8700000.0,15100000.0,1990-10-03,Nils Gaup,"['John M. Jacobsen', 'Nigel Wooll']",Patrick Doyle
-176,The Rocketeer,108.0,35000000.0,46700000.0,1991-06-21,Joe Johnston,"['Charles Gordon', 'Lawrence Gordon', 'Lloyd Levin']",James Horner
-177,Beauty and the Beast,84.0,25000000.0,440100000.0,1991-09-29,"['Gary Trousdale', 'Kirk Wise']",Don Hahn,Alan Menken
-178,Newsies,121.0,15000000.0,2800000.0,1992-04-10,Kenny Ortega,Michael Finnell,"['Alan Menken', 'J. A. C. Redford']"
-179,"Honey, I Blew Up the Kid",89.0,40000000.0,58700000.0,1992-07-17,Randal Kleiser,"['Dawn Steel', 'Edward S. Feldman']",Bruce Broughton
-180,The Mighty Ducks,104.0,14000000.0,50800000.0,1992-10-02,Stephen Herek,"['Jon Avnet', 'Jordan Kerner']",David Newman
-181,Aladdin,90.0,28000000.0,504100000.0,1992-11-25,"['John Musker', 'Ron Clements']","['John Musker', 'Ron Clements']",Alan Menken
-182,The Muppet Christmas Carol,86.0,12000000.0,27200000.0,1992-12-11,Brian Henson,"['Brian Henson', 'Martin G. Baker']",Miles Goodman
-185,The Adventures of Huck Finn,107.0,6500000.0,24100000.0,1993-04-02,Stephen Sommers,"['John Baldecchi', 'Steve White']",Bill Conti
-186,Hocus Pocus,96.0,28000000.0,39500000.0,1993-07-16,Kenny Ortega,"['David Kirschner', 'Steven Haft']",John Debney
-187,Cool Runnings,98.0,17000000.0,154900000.0,1993-10-01,Jon Turteltaub,"['Dawn Steel', 'Susan B. Landau', 'Jeffrey Bydalek']",Hans Zimmer
-188,The Three Musketeers,105.0,30000000.0,53900000.0,1993-11-12,Stephen Herek,"['Roger Birnbaum', 'Joe Roth', 'Jon Avnet']",Michael Kamen
-190,Blank Check,94.0,13000000.0,30600000.0,1994-02-11,Rupert Wainwright,"['Gary Adelson', 'Craig Baumgarten', 'Tony Shimkin']",Nicholas Pike
-193,The Lion King,88.0,45000000.0,968500000.0,1994-06-15,"['Roger Allers', 'Rob Minkoff']",Don Hahn,Hans Zimmer
-194,Angels in the Outfield,102.0,31000000.0,50200000.0,1994-07-15,William Dear,"['Irby Smith', 'Joe Roth', 'Roger Birnbaum']",Randy Edelman
-196,The Santa Clause,97.0,22000000.0,189800000.0,1994-11-11,John Pasquin,"['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']",Michael Convertino
-197,Rudyard Kipling's The Jungle Book,111.0,30000000.0,43200000.0,1994-12-25,Stephen Sommers,"['Edward S. Feldman', 'Raju Patel']",Basil Poledouris
-199,Man of the House,96.0,22000000.0,40070995.0,1995-03-03,James Orr,"['Bonnie Bruckheimer', 'Marty Katz']",Mark Mancina
-200,Tall Tale,98.0,32000000.0,11000000.0,1995-03-24,Jeremiah S. Chechik,"['Roger Birnbaum', 'Joe Roth']",Randy Edelman
-202,Pocahontas,81.0,55000000.0,346100000.0,1995-06-23,"['Mike Gabriel', 'Eric Goldberg']",Jim Pentecost,Alan Menken
-203,Operation Dumbo Drop,108.0,24000000.0,24670346.0,1995-07-28,Simon Wincer,"['Diane Nabatoff', 'David Madden']",David Newman
-204,A Kid in King Arthur's Court,89.0,15000000.0,13400000.0,1995-08-11,Michael Gottlieb,"['Peter Abrams', 'J.P. Guerin', 'Robert L. Levy']",J. A. C. Redford
-205,The Big Green,99.0,12000000.0,17700000.0,1995-09-29,Holly Goldberg Sloan,"['Dennis Bishop', 'Roger Birnbaum']",Randy Edelman
-207,Toy Story,81.0,30000000.0,373600000.0,1995-11-19,John Lasseter,"['Bonnie Arnold', 'Ralph Guggenheim']",Randy Newman
-209,Muppet Treasure Island,100.0,31000000.0,34300000.0,1996-02-16,Brian Henson,"['Martin G. Baker', 'Brian Henson']",Hans Zimmer
-211,James and the Giant Peach,79.0,38000000.0,28900000.0,1996-04-12,Henry Selick,"['Denise Di Novi', 'Tim Burton']",Randy Newman
-212,The Hunchback of Notre Dame,91.0,100000000.0,325300000.0,1996-06-21,"['Gary Trousdale', 'Kirk Wise']",Don Hahn,Alan Menken
-213,First Kid,101.0,15000000.0,26491793.0,1996-08-30,David M. Evans,Roger Birnbaum,Richard Gibbs
-215,101 Dalmatians,103.0,75000000.0,320700000.0,1996-11-27,Stephen Herek,"['John Hughes', 'Ricardo Mestres']",Michael Kamen
-217,Jungle 2 Jungle,105.0,32000000.0,59900000.0,1997-03-07,John Pasquin,"['Richard Baker', 'Brad Krevoy']",Michael Convertino
-218,Hercules,93.0,85000000.0,252700000.0,1997-06-13,"['Ron Clements', 'John Musker']","['Alice Dewey', 'Ron Clements', 'John Musker']",Alan Menken
-219,George of the Jungle,92.0,55000000.0,174400000.0,1997-07-16,Sam Weisman,"['David Hoberman', 'Jordan Kerner', 'Jon Avnet']",Marc Shaiman
-220,Air Bud,98.0,3000000.0,27800000.0,1997-08-01,Charles Martin Smith,"['Robert Vince', 'William Vince']",Brahm Wenger
-221,RocketMan,95.0,16000000.0,15400000.0,1997-10-10,Stuart Gillard,Roger Birnbaum,Michael Tavera
-222,Flubber,93.0,80000000.0,178000000.0,1997-11-16,Les Mayfield,"['John Hughes', 'Ricardo Mestres']",Danny Elfman
-223,Mr. Magoo,87.0,30000000.0,28900000.0,1997-12-25,Stanley Tong,Ben Myron,Mike Tavera
-224,Meet the Deedles,93.0,24000000.0,4400000.0,1998-03-27,Steve Boyum,"['Dale Pollock', 'Aaron Meyerson']",Steve Bartek
-225,Mulan,87.0,90000000.0,304300000.0,1998-06-19,"['Barry Cook', 'Tony Bancroft']",Pam Coats,Jerry Goldsmith
-226,The Parent Trap,128.0,15000000.0,92100000.0,1998-07-29,Nancy Meyers,Charles Shyer,Alan Silvestri
-227,I'll Be Home for Christmas,86.0,30000000.0,12200000.0,1998-11-13,Arlene Sanford,"['Robin French', 'Justis Greene', 'David Hoberman', 'Tracey Trench']",John Debney
-228,A Bug's Life,95.0,120000000.0,363300000.0,1998-11-20,John Lasseter,"['Darla K. Anderson', 'Kevin Reher']",Randy Newman
-229,Mighty Joe Young,114.0,90000000.0,50600000.0,1998-12-25,Ron Underwood,"['Ted Hartley', 'Tom Jacobson']",James Horner
-230,My Favorite Martian,93.0,65000000.0,36800000.0,1999-02-12,Donald Petrie,"['Jerry Leider', 'Robert Shapiro', 'Marc Toberoff']",John Debney
-231,Doug's 1st Movie,83.0,5000000.0,19400000.0,1999-03-26,Maurice Joyce,"['David Campbell', 'Melanie Grisanti', 'Jim Jinkins', 'Bruce Knapp', 'Jack Spillum']",Mark Watters
-233,Tarzan,88.0,130000000.0,448200000.0,1999-06-12,"['Kevin Lima', 'Chris Buck']",Bonnie Arnold,Mark Mancina
-234,Inspector Gadget,78.0,90000000.0,134400000.0,1999-07-23,David Kellogg,"['Roger Birnbaum', 'Andy Heyward', 'Jordan Kerner', 'Aaron Meyerson']",John Debney
-236,Toy Story 2,92.0,90000000.0,497400000.0,1999-11-13,John Lasseter,"['Helene Plotkin', 'Karen Robert Jackson']",Randy Newman
-237,Fantasia 2000,74.0,85000000.0,90900000.0,1999-12-17,"['Don Hahn', 'Pixote Hunt', 'Hendel Butoy', 'Eric Goldberg', 'James Algar', 'Francis Glebas', 'Paul and Gaëtan Brizzi']","['Roy E. Disney', 'Donald W. Ernst']",See program
-238,The Tigger Movie,77.0,15000000.0,96200000.0,2000-02-11,Jun Falkenstein,Cheryl Abood,Harry Gregson-Williams
-239,Dinosaur,82.0,127500000.0,349800000.0,2000-05-19,"['Ralph Zondag', 'Eric Leighton']",Pam Marsden,James Newton Howard
-240,The Kid,104.0,65000000.0,110300000.0,2000-07-07,Jon Turteltaub,"['Hunt Lowry', 'Arnold Rifkin', 'Christina Steinberg', 'Jon Turteltaub', 'David Willis']","['Marc Shaiman', 'Jason White']"
-241,Remember The Titans,113.0,30000000.0,136700000.0,2000-09-29,Boaz Yakin,"['Jerry Bruckheimer', 'Chad Oman']",Trevor Rabin
-242,102 Dalmatians,100.0,85000000.0,183600000.0,2000-11-22,Kevin Lima,Edward S. Feldman,David Newman
-243,The Emperor's New Groove,78.0,100000000.0,169300000.0,2000-12-15,Mark Dindal,Randy Fullmer,John Debney
-244,Recess: School's Out,83.0,23000000.0,44500000.0,2001-02-10,Chuck Sheetz,"['Joe Ansolabehere', 'Paul Germain', 'Stephen Swofford']",Denis M. Hannigan
-245,Atlantis: The Lost Empire,96.0,90000000.0,186100000.0,2001-06-03,"['Gary Trousdale', 'Kirk Wise']",Don Hahn,James Newton Howard
-246,The Princess Diaries,115.0,26000000.0,165300000.0,2001-08-03,Garry Marshall,"['Whitney Houston', 'Debra Martin Chase', 'Mario Iscovich']",John Debney
-247,Max Keeble's Big Move,86.0,25000000.0,18600000.0,2001-10-05,Tim Hill,Mike Karz,Michael Wandmacher
-248,"Monsters, Inc.",92.0,115000000.0,577400000.0,2001-10-28,Pete Docter,Darla K. Anderson,Randy Newman
-249,Snow Dogs,99.0,33000000.0,115000000.0,2002-01-18,Brian Levant,Jordan Kerner,John Debney
-250,Return to Never Land,73.0,20000000.0,115100000.0,2002-02-10,Robin Budd,"['Christopher Chase', 'Michelle Pappalardo-Robinson', 'Dan Rounds']","['Joel McNeely (Score)', 'They Might Be Giants (Songs)']"
-251,The Rookie,128.0,22000000.0,80700000.0,2002-03-29,John Lee Hancock,"['Mark Ciardi', 'Gordon Gray', 'Mark Johnson']",Carter Burwell
-252,Lilo & Stitch,85.0,80000000.0,273100000.0,2002-06-21,"['Chris Sanders', 'Dean DeBlois']",Clark Spencer,Alan Silvestri
-253,The Country Bears,88.0,35000000.0,18000000.0,2002-07-21,Peter Hastings,"['Jeffrey Chernov', 'Andrew Gunn']",Christopher Young
-254,Tuck Everlasting,96.0,15000000.0,19300000.0,2002-10-11,Jay Russell,"['Marc Abraham', 'Jane Startz', 'Thomas Bliss']",William Ross
-255,The Santa Clause 2,104.0,65000000.0,172900000.0,2002-11-01,Michael Lembeck,"['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']",George S. Clinton
-256,Treasure Planet,95.0,140000000.0,109600000.0,2002-11-27,"['Ron Clements', 'John Musker']","['Ron Clements', 'John Musker', 'Roy Conli']",James Newton Howard
-257,The Jungle Book 2,72.0,20000000.0,135700000.0,2003-02-14,Steve Trenbirth,"['Christopher Chase', 'Mary Thorne']",Joel McNeely
-258,Piglet's Big Movie,75.0,46000000.0,62900000.0,2003-03-16,Francis Glebas,Michelle Pappalardo-Robinson,"['Carl Johnson', 'Carly Simon']"
-259,Ghosts of the Abyss,61.0,13000000.0,28700000.0,2003-03-31,James Cameron,"['John Bruno', 'James Cameron', 'Chuck Comisky', 'Janace Tashjian', 'Andrew Wight']",Joel McNeely
-260,Holes,117.0,20000000.0,71400000.0,2003-04-18,Andrew Davis,"['Andrew Davis', 'Lowell D. Blank', 'Mike Medavoy', 'Teresa Tucker-Davies']",Joel McNeely
-261,The Lizzie McGuire Movie,94.0,17000000.0,55500000.0,2003-05-02,Jim Fall,Stan Rogow,Cliff Eidelman
-262,Finding Nemo,100.0,94000000.0,940300000.0,2003-05-30,Andrew Stanton,Graham Walters,Thomas Newman
-263,Pirates of the Caribbean: The Curse of the Black Pearl,143.0,140000000.0,654300000.0,2003-06-28,Gore Verbinski,Jerry Bruckheimer,['Klaus Badelt']
-264,Freaky Friday,97.0,26000000.0,160800000.0,2003-08-04,Mark Waters,Andrew Gunn,Rolfe Kent
-265,Brother Bear,85.0,46000000.0,250400000.0,2003-11-01,"['Aaron Blaise', 'Robert Walker']",Chuck Williams,"['Phil Collins', 'Mark Mancina']"
-266,The Haunted Mansion,86.0,90000000.0,182300000.0,2003-11-26,Rob Minkoff,"['Andrew Gunn', 'Don Hahn']",Mark Mancina
-268,Teacher's Pet,74.0,10000000.0,6500000.0,2004-01-16,Timothy Björklund,Stephen Swofford,Stephen James Taylor
-269,Miracle,136.0,28000000.0,64500000.0,2004-02-06,Gavin O'Connor,"['Mark Ciardi', 'Gordon Gray', 'Ross Greenburg', 'Justis Greene', 'Jon Mone', ""Greg O'Connor""]",Mark Isham
-270,Confessions of a Teenage Drama Queen,89.0,15000000.0,33100000.0,2004-02-20,Sara Sugarman,"['Robert Shapiro', 'Jerry Leider']",Mark Mothersbaugh
-271,Home on the Range,76.0,110000000.0,145500000.0,2004-04-02,"['Will Finn', 'John Sanford']",Alice Dewey Goldstone,Alan Menken
-273,Around the World in 80 Days,120.0,110000000.0,72200000.0,2004-06-13,Frank Coraci,"['Bill Badalato', 'Hal Lieberman']","['Trevor Jones', 'David A. Stewart']"
-275,The Princess Diaries 2: Royal Engagement,113.0,45000000.0,134700000.0,2004-08-11,Garry Marshall,"['Whitney Houston', 'Debra Martin Chase']",John Debney
-276,The Incredibles,115.0,92000000.0,633000000.0,2004-10-27,Brad Bird,John Walker,Michael Giacchino
-277,National Treasure,131.0,100000000.0,347500000.0,2004-11-19,Jon Turteltaub,"['Jerry Bruckheimer', 'Jon Turteltaub']",Trevor Rabin
-279,Pooh's Heffalump Movie,68.0,20000000.0,52900000.0,2005-02-11,Frank Nissen,Jessica Koplos-Miller,Joel McNeely
-280,The Pacifier,95.0,56000000.0,198600000.0,2005-03-04,Adam Shankman,"['Roger Birnbaum', 'Gary Barber', 'Jonathan Glickman']",John Debney
-281,Ice Princess,97.0,25000000.0,27600000.0,2005-03-18,Tim Fywell,Bridget Johnson,Christophe Beck
-282,Herbie: Fully Loaded,101.0,50000000.0,144100000.0,2005-06-22,Angela Robinson,Robert Simonds,Mark Mothersbaugh
-283,Sky High,100.0,35000000.0,86400000.0,2005-07-29,Mike Mitchell,Andrew Gunn,Michael Giacchino
-284,Valiant,76.0,35000000.0,61700000.0,2005-03-25,Gary Chapman,"['John H. Williams', 'Barnaby Thompson (executive producer)']",George Fenton
-285,The Greatest Game Ever Played,120.0,25000000.0,15400000.0,2005-09-30,Bill Paxton,"['David Blocker', 'Larry Brezner', 'Mark Frost']",Brian Tyler
-286,Chicken Little,81.0,150000000.0,314400000.0,2005-10-30,Mark Dindal,Randy Fullmer,John Debney
-287,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",143.0,180000000.0,745000000.0,2005-12-07,Andrew Adamson,"['Mark Johnson', 'Phillip Steuer']",Harry Gregson-Williams
-288,Glory Road's,106.0,30000000.0,42900000.0,2006-01-13,James Gartner,['Jerry Bruckheimer'],Trevor Rabin
-289,Roving Mars,40.0,1000000.0,11000000.0,2006-01-27,George Butler,"['George Butler', 'Frank Marshall']","['Philip Glass', 'Sigur Rós']"
-290,Eight Below,120.0,40000000.0,120500000.0,2006-02-17,Frank Marshall,"['Patrick Crowley', 'David Hoberman']",Mark Isham
-291,The Shaggy Dog,99.0,50000000.0,87100000.0,2006-03-10,Brian Robbins,"['David Hoberman', 'Tim Allen']",Alan Menken
-292,The Wild,82.0,80000000.0,102300000.0,2006-04-14,"Steve ""Spaz"" Williams","['Clint Goldman', 'Beau Flynn']",Alan Silvestri
-293,Cars,117.0,120000000.0,462000000.0,2006-05-26,John Lasseter,Darla K. Anderson,Randy Newman
-294,Pirates of the Caribbean: Dead Man's Chest,151.0,225000000.0,1066000000.0,2006-06-24,Gore Verbinski,Jerry Bruckheimer,Hans Zimmer
-295,Invincible,104.0,30000000.0,58500000.0,2006-08-25,Ericson Core,"['Gordon Gray', 'Mark Ciardi']",Mark Isham
-296,The Nightmare Before Christmas,76.0,18000000.0,89100000.0,1993-10-29,Henry Selick,"['Tim Burton', 'Denise Di Novi']",Danny Elfman
-297,The Santa Clause 3: The Escape Clause,92.0,12000000.0,110800000.0,2006-11-03,Michael Lembeck,"['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver']",George S. Clinton
-298,Bridge to Terabithia,95.0,20000000.0,138000000.0,2007-02-16,Gábor Csupó,"['David L. Paterson', 'Lauren Levine', 'Hal Lieberman']",Aaron Zigman
-300,Pirates of the Caribbean: At World's End,168.0,300000000.0,961000000.0,2007-05-19,Gore Verbinski,Jerry Bruckheimer,Hans Zimmer
-301,Ratatouille,111.0,150000000.0,620700000.0,2007-06-22,Brad Bird,Brad Lewis,Michael Giacchino
-302,Underdog,82.0,25000000.0,65300000.0,2007-08-03,Frederik Du Chau,"['Gary Barber', 'Roger Birnbaum', 'Jonathan Glickman', 'Jay Polstein']",Randy Edelman
-304,The Game Plan,110.0,22000000.0,146600000.0,2007-09-23,Andy Fickman,"['Mark Ciardi', 'Gordon Gray']",Nathan Wang
-305,Enchanted,107.0,85000000.0,340500000.0,2007-10-20,Kevin Lima,"['Barry Josephson', 'Barry Sonnenfeld']",Alan Menken
-306,National Treasure: Book of Secrets,124.0,130000000.0,459200000.0,2007-12-21,Jon Turteltaub,"['Jerry Bruckheimer', 'Jon Turteltaub']",Trevor Rabin
-307,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,74.0,7000000.0,70600000.0,2008-02-01,Bruce Hendricks,Art Repola,"['Matthew Gerrard', 'Robbie Nevil', 'Miley Cyrus', 'Jamie Houston', 'Tim James']"
-308,College Road Trip,83.0,25000000.0,51500000.0,2008-03-07,Roger Kumble,Andrew Gunn,Edward Shearmur
-309,The Chronicles of Narnia: Prince Caspian,150.0,225000000.0,419700000.0,2008-05-07,Andrew Adamson,"['Mark Johnson', 'Andrew Adamson', 'Philip Steuer']",Harry Gregson-Williams
-310,WALL-E,97.0,180000000.0,533299999.99999994,2008-06-23,Andrew Stanton,Jim Morris,Thomas Newman
-311,Beverly Hills Chihuahua,91.0,20000000.0,149300000.0,2008-09-26,Raja Gosnell,"['David Hoberman', 'Todd Lieberman', 'John Jacobs', 'Ricardo Del Río']",Heitor Pereira
-313,High School Musical 3: Senior Year,111.0,11000000.0,252900000.0,2008-10-17,Kenny Ortega,"['Bill Borden', 'Barry Rosenbush']",David Lawrence
-314,Bolt,96.0,150000000.0,310000000.0,2008-11-21,"['Chris Williams', 'Byron Howard']",Clark Spencer,John Powell
-315,Bedtime Stories,99.0,80000000.0,212900000.0,2008-12-25,Adam Shankman,"['Adam Sandler', 'Andrew Gunn', 'Jack Giarraputo']",Rupert Gregson-Williams
-317,Race to Witch Mountain,98.0,50000000.0,106400000.0,2009-03-11,Andy Fickman,Andrew Gunn,Trevor Rabin
-318,Hannah Montana: The Movie,97.0,30000000.0,169.2,2009-04-10,Peter Chelsom,"['David Blocker', 'Billy Ray Cyrus', 'Alfred Gough', 'Miles Millar', 'Steven Peterman', 'Michael Poryes']",John Debney
-319,Earth,99.0,47000000.0,109000000.0,2007-10-10,"['Alastair Fothergill', 'Mark Linfield']","['Alix Tidmarsh', 'Sophokles Tasioulius']","['George Fenton', 'Berliner Philharmoniker']"
-320,Up,96.0,175000000.0,735100000.0,2009-05-29,Pete Docter,Jonas Rivera,Michael Giacchino
-322,G-Force,90.0,150000000.0,292800000.0,2009-07-24,Hoyt H. Yeatman Jr.,Jerry Bruckheimer,Trevor Rabin
-325,A Christmas Carol,96.0,175000000.0,325000000.0,2009-11-03,Robert Zemeckis,"['Steve Starkey', 'Robert Zemeckis', 'Jack Rapke']",Alan Silvestri
-326,Old Dogs,88.0,35000000.0,96800000.0,2009-11-25,Walt Becker,"['Andrew Panay', 'Robert L. Levy', 'Peter Abrams']",John Debney
-327,The Princess and the Frog,97.0,105000000.0,269000000.0,2009-11-25,"['Ron Clements', 'John Musker']",Peter Del Vecho,Randy Newman
-328,Alice in Wonderland,108.0,200000000.0,1024999999.9999999,2010-02-25,Tim Burton,"['Richard D. Zanuck', 'Joe Roth', 'Suzanne Todd', 'Jennifer Todd']",Danny Elfman
-330,Oceans,104.0,80000000.0,82700000.0,2009-10-17,"['Jacques Perrin', 'Jacques Cluzaud', '(co-director)']","['Jacques Perrin', 'Romain Legrand', 'Nicolas Mauvernay', 'Jake Eberts']",Bruno Coulais
-331,Prince of Persia: The Sands of Time,116.0,150.0,336400000.0,2010-05-09,Mike Newell,Jerry Bruckheimer,Harry Gregson-Williams
-332,Toy Story 3,103.0,200000000.0,1067000000.0,2010-06-12,Lee Unkrich,Darla K. Anderson,Randy Newman
-333,The Sorcerer's Apprentice,109.0,150000000.0,215300000.0,2010-07-08,Jon Turteltaub,Jerry Bruckheimer,Trevor Rabin
-335,Secretariat,123.0,35000000.0,60300000.0,2010-09-30,Randall Wallace,"['Mark Ciardi', 'Gordon Gray']",Nick Glennie-Smith
-337,Tangled,100.0,260000000.0,592400000.0,2010-11-14,"['Nathan Greno', 'Byron Howard']",Roy Conli,Alan Menken
-339,Tron: Legacy,125.0,150000000.0,410000000.0,2010-11-30,Joseph Kosinski,"['Sean Bailey', 'Jeffrey Silver', 'Steven Lisberger']",Daft Punk
-342,Mars Needs Moms,88.0,150000000.0,39200000.0,2011-03-11,Simon Wells,"['Robert Zemeckis', 'Jack Rapke', 'Steve Starkey', 'Steven Boyd']",John Powell
-344,African Cats,89.0,5000000.0,30900000.0,2011-04-22,"['Alastair Fothergill', 'Keith Scholey']","['Alix Tidmarsh', 'Keith Scholey']",Nicholas Hooper
-345,Prom,104.0,8000000.0,10100000.0,2011-04-29,Joe Nussbaum,"['Ted Griffin', 'Justin Springer']",Deborah Lurie
-346,Pirates of the Caribbean: On Stranger Tides,137.0,410600000.0,1046000000.0,2011-05-07,Rob Marshall,"Jerry Bruckheimer , Neal H. Moritz",Hans Zimmer
-347,Cars 2,106.0,200000000.0,562100000.0,2011-06-18,John Lasseter,Denise Ream,Michael Giacchino
-348,Winnie the Pooh,69.0,30000000.0,50100000.0,2011-04-06,"['Stephen J. Anderson', 'Don Hall']","['Peter Del Vecho', 'Clark Spencer']",Henry Jackman
-349,The Muppets,103.0,45000000.0,165200000.0,2011-11-04,James Bobin,"['David Hoberman', 'Todd Lieberman']",Christophe Beck
-350,John Carter,132.0,306600000.0,284100000.0,2012-02-22,Andrew Stanton,"['Jim Morris', 'Colin Wilson', 'Lindsey Collins']",Michael Giacchino
-351,Chimpanzee,77.0,5000000.0,34800000.0,2012-04-20,"['Alastair Fothergill', 'Mark Linfield']","['Alastair Fothergill', 'Mark Linfield', 'Alix Tidmarsh']",Nicholas Hooper
-353,Brave,93.0,185000000.0,540400000.0,2012-06-10,"['Mark Andrews', 'Brenda Chapman']",Katherine Sarafian,Patrick Doyle
-354,The Odd Life of Timothy Green,104.0,25000000.0,56000000.0,2012-08-15,Peter Hedges,"['Scott Sanders', 'James Whitaker', 'Ahmet Zappa']",Geoff Zanelli
-355,Frankenweenie,87.0,39000000.0,81500000.0,2012-09-20,Tim Burton,"['Tim Burton', 'Allison Abbate']",Danny Elfman
-356,Wreck-It Ralph,101.0,165000000.0,471200000.0,2012-10-29,Rich Moore,Clark Spencer,Henry Jackman
-357,Oz the Great and Powerful,130.0,200000000.0,493300000.0,2013-02-14,Sam Raimi,Joe Roth,Danny Elfman
-359,Monsters University,104.0,200000000.0,743600000.0,2013-06-05,Dan Scanlon,Kori Rae,Randy Newman
-360,The Lone Ranger,149.0,225000000.0,260500000.0,2013-06-22,Gore Verbinski,"['Jerry Bruckheimer', 'Gore Verbinski']",Hans Zimmer
-361,Planes,92.0,50000000.0,239300000.0,2013-08-02,Klay Hall,Tracy Balthazor-Flynn,Mark Mancina
-362,Frozen,102.0,150000000.0,1280000000.0,2013-11-19,"['Chris Buck', 'Jennifer Lee']",Peter Del Vecho,"['Christophe Beck', 'Robert Lopez', 'Kristen Anderson-Lopez']"
-363,Saving Mr. Banks,125.0,35000000.0,117900000.0,2013-10-20,John Lee Hancock,"['Alison Owen', 'Ian Collie', 'Philip Steuer']",Thomas Newman
-364,Muppets Most Wanted,107.0,51000000.0,80400000.0,2014-03-11,James Bobin,"['David Hoberman', 'Todd Lieberman']",Christophe Beck
-366,Million Dollar Arm,124.0,25000000.0,39200000.0,2014-05-06,Craig Gillespie,"['Joe Roth', 'Mark Ciardi', 'Gordon Gray']",A. R. Rahman
-367,Maleficent,97.0,180000000.0,758500000.0,2014-05-28,Robert Stromberg,Joe Roth,James Newton Howard
-368,Planes: Fire & Rescue,84.0,50000000.0,147000000.0,2014-07-15,Bobs Gannaway,Ferrell Barron,Mark Mancina
-369,Khoobsurat,127.0,3200000.0,11000000.0,2014-09-19,Shashanka Ghosh,"['Rhea Kapoor', 'Anil Kapoor', 'Siddharth Roy Kapur']","['Songs:', 'Sneha Khanwalkar', 'Badshah', 'Amaal Mallik', 'Background Score:', 'Simaab Sen']"
-370,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",81.0,28000000.0,100700000.0,2014-10-06,Miguel Arteta,"['Shawn Levy', 'Dan Levine', 'Lisa Henson']",Christophe Beck
-371,Big Hero 6,102.0,165000000.0,657800000.0,2014-10-23,"['Don Hall', 'Chris Williams']",Roy Conli,Henry Jackman
-372,Into the Woods,124.0,50000000.0,213100000.0,2014-12-08,Rob Marshall,"['Rob Marshall', 'John DeLuca', 'Marc Platt', 'Callum McDougall']",Stephen Sondheim
-373,"McFarland, USA",129.0,25000000.0,45700000.0,2015-02-09,Niki Caro,"['Gordon Gray', 'Mark Ciardi']",Antônio Pinto
-374,Cinderella,106.0,95000000.0,542400000.0,2015-02-13,Kenneth Branagh,"['Simon Kinberg', 'Allison Shearmur', 'David Barron']",Patrick Doyle
-375,Monkey Kingdom,82.0,5000000.0,17100000.0,2015-04-17,"['Mark Linfield', 'Alastair Fothergill']","['Mark Linfield', 'Alastair Fothergill']",Harry Gregson-Williams
-376,Tomorrowland,130.0,180000000.0,209000000.0,2015-05-09,Brad Bird,"['Damon Lindelof', 'Brad Bird', 'Jeffrey Chernov']",Michael Giacchino
-377,Inside Out,94.0,175000000.0,858000000.0,2015-05-18,Pete Docter,Jonas Rivera,Michael Giacchino
-379,The Good Dinosaur,94.0,175000000.0,332200000.0,2015-11-10,Peter Sohn,Denise Ream,"['Mychael Danna', 'Jeff Danna']"
-380,The Finest Hours,117.0,70000000.0,52100000.0,2016-01-25,Craig Gillespie,"['Jim Whitaker', 'Dorothy Aufiero']",Carter Burwell
-381,Zootopia,108.0,150000000.0,1024000000.0,2016-02-13,"['Byron Howard', 'Rich Moore']",Clark Spencer,Michael Giacchino
-382,The Jungle Book,106.0,175000000.0,966600000.0,2016-04-04,Jon Favreau,"['Jon Favreau', 'Brigham Taylor']",John Debney
-384,Alice Through the Looking Glass,113.0,170000000.0,300000000.0,2016-05-10,James Bobin,"['Joe Roth', 'Suzanne Todd', 'Jennifer Todd', 'Tim Burton']",Danny Elfman
-385,Finding Dory,97.0,175000000.0,1028999999.9999999,2016-06-08,Andrew Stanton,Lindsey Collins,Thomas Newman
-386,The BFG,117.0,140000000.0,195200000.0,2016-05-14,Steven Spielberg,"['Steven Spielberg', 'Frank Marshall', 'Sam Mercer']",John Williams
-387,Pete's Dragon,103.0,65000000.0,143700000.0,2016-08-08,David Lowery,James Whitaker,Daniel Hart
-388,Queen of Katwe,124.0,15000000.0,10400000.0,2016-09-10,Mira Nair,"['John Carls', 'Lydia Dean Pilcher']",Alex Heffes
-389,Moana,107.0,150000000.0,690800000.0,2016-11-14,"['Ron Clements', 'John Musker']",Osnat Shurer,"['Mark Mancina', 'Lin-Manuel Miranda', ""Opetaia Foa'i""]"
-391,March of the Penguins,80.0,8000000.0,127400000.0,2005-01-26,Luc Jacquet,"['Yves Darondeau', 'Christophe Lioud', 'Emmanuel Priou']","['Émilie Simon (France)', 'Alex Wurman (US)']"
-392,Beauty and the Beast,129.0,160000000.0,1264000000.0,2017-02-23,Bill Condon,"['David Hoberman', 'Todd Lieberman']",Alan Menken
-393,Born in China,76.0,5000000.0,25100000.0,2016-08-12,Lu Chuan,"['Roy Conli', 'Brian Leith', 'Phil Chapman']",Barnaby Taylor
-394,Pirates of the Caribbean: Dead Men Tell No Tales,129.0,230000000.0,794900000.0,2017-05-11,"['Joachim Rønning', 'Espen Sandberg']",Jerry Bruckheimer,Geoff Zanelli
-395,Cars 3,102.0,175000000.0,383900000.0,2017-05-23,Brian Fee,Kevin Reher,Randy Newman
-398,Coco,105.0,175000000.0,807100000.0,2017-10-20,Lee Unkrich,Darla K. Anderson,Michael Giacchino
-399,A Wrinkle in Time,109.0,100000000.0,133400000.0,2018-02-26,Ava DuVernay,"['Jim Whitaker', 'Catherine Hand']",Ramin Djawadi
-400,Incredibles 2,118.0,200000000.0,1243000000.0,2018-06-05,Brad Bird,"['John Walker', 'Nicole Paradis Grindle']",Michael Giacchino
-401,Christopher Robin,104.0,75000000.0,197700000.0,2018-07-30,Marc Forster,"['Brigham Taylor', 'Kristin Burr']","['Geoff Zanelli', 'Jon Brion']"
-402,The Nutcracker and the Four Realms,99.0,120000000.0,174000000.0,2018-10-29,"['Lasse Hallström', 'Joe Johnston']","['Mark Gordon', 'Larry Franco']",James Newton Howard
-403,Ralph Breaks the Internet,112.0,175000000.0,529299999.99999994,2018-11-05,"['Rich Moore', 'Phil Johnston']",Clark Spencer,Henry Jackman
-404,Mary Poppins Returns,131.0,130000000.0,349500000.0,2018-11-29,Rob Marshall,"['Rob Marshall', 'John DeLuca', 'Marc Platt']",Marc Shaiman
-405,Dumbo,112.0,170000000.0,353300000.0,2019-03-11,Tim Burton,"['Justin Springer', 'Ehren Kruger', 'Katterli Frauenfelder', 'Derek Frey']",Danny Elfman
-408,Toy Story 4,100.0,200000000.0,1073000000.0,2019-06-11,Josh Cooley,"['Mark Nielsen', 'Jonas Rivera']",Randy Newman
-409,The Lion King,118.0,250000000.0,1657000000.0,2019-07-09,Jon Favreau,"['Jon Favreau', 'Jeffrey Silver', 'Karen Gilchrist']",Hans Zimmer
-410,Maleficent: Mistress of Evil,119.0,185000000.0,491700000.0,2019-10-18,Joachim Rønning,"['Joe Roth', 'Angelina Jolie', 'Duncan Henderson']",Geoff Zanelli
-413,Frozen II,103.0,150000000.0,1450000000.0,2019-11-07,"['Chris Buck', 'Jennifer Lee']",Peter Del Vecho,"['Christophe Beck', 'Robert Lopez', 'Kristen Anderson-Lopez']"
-416,Onward,102.0,175000000.0,136400000.0,2020-02-21,Dan Scanlon,Kori Rae,"['Mychael Danna', 'Jeff Danna']"
-425,Mulan,115.0,200000000.0,57000000.0,2020-03-09,Niki Caro,"['Chris Bender', 'Jake Weiner', 'Jason T. Reed']",Harry Gregson-Williams
+;title;Running time (int);Budget (float);Box office (float);Release date (datetime);Directed by;Produced by;Music by
+1;Snow White and the Seven Dwarfs;83.0;1490000.0;418000000.0;1937-12-21;['David Hand (supervising)', 'William Cottrell', 'Wilfred Jackson', 'Larry Morey', 'Perce Pearce', 'Ben Sharpsteen'];Walt Disney;['Frank Churchill', 'Paul Smith', 'Leigh Harline']
+2;Pinocchio;88.0;2600000.0;164000000.0;1940-02-07;['Ben Sharpsteen', 'Hamilton Luske', 'Bill Roberts', 'Norman Ferguson', 'Jack Kinney', 'Wilfred Jackson', 'T. Hee'];Walt Disney;['Leigh Harline', 'Paul J. Smith']
+3;Fantasia;126.0;2280000.0;83300000.0;1940-11-13;['Samuel Armstrong', 'James Algar', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'David D. Hand', 'Hamilton Luske', 'Jim Handley', 'Ford Beebe', 'T. Hee', 'Norman Ferguson', 'Wilfred Jackson'];['Walt Disney', 'Ben Sharpsteen'];See program
+4;The Reluctant Dragon;74.0;600000.0;960000.0;1941-06-20;['Alfred Werker', '(live action)', 'Hamilton Luske', '(animation)', 'Jack Cutting', ',', 'Ub Iwerks', ',', 'Jack Kinney', '(sequence directors)'];Walt Disney;['Frank Churchill', 'Larry Morey']
+5;Dumbo;64.0;950000.0;1300000.0;1941-10-23;['Supervising director:', 'Ben Sharpsteen', 'Sequence directors:', 'Norman Ferguson', 'Wilfred Jackson', 'Bill Roberts', 'Jack Kinney', 'Samuel Armstrong'];Walt Disney;['Frank Churchill', 'Oliver Wallace']
+6;Bambi;70.0;858000.0;267399999.99999997;1942-08-09;['Supervising director', 'David Hand', 'Sequence directors', 'James Algar', 'Samuel Armstrong', 'Graham Heid', 'Bill Roberts', 'Paul Satterfield', 'Norman Wright'];Walt Disney;['Frank Churchill', 'Edward H. Plumb']
+8;Victory Through Air Power;65.0;788000.0;799000.0;1943-07-17;['Animated sequences:', 'James Algar', 'Clyde Geronimi', 'Jack Kinney', 'de Seversky scenes:', 'H.C. Potter'];Walt Disney;['Edward H. Plumb', 'Paul J. Smith', 'Oliver Wallace']
+10;Make Mine Music;75.0;1350000.0;3275000.0;1946-04-20;['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Joshua Meador', 'Robert Cormack'];Walt Disney;['Eliot Daniel', 'Ken Darby', 'Charles Wolcott', 'Oliver Wallace', 'Edward Plumb']
+11;Song of the South;94.0;2125000.0;65000000.0;1946-11-12;['Live action:', 'Harve Foster', 'Animation:', 'Wilfred Jackson'];Walt Disney;['Edward Plumb', 'Daniele Amfitheatrof', 'Paul J. Smith', 'Charles Wolcott']
+13;Melody Time;75.0;1500000.0;2560000.0;1948-05-27;['Jack Kinney', 'Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson'];Walt Disney;['Eliot Daniel', 'Paul J. Smith', 'Ken Darby']
+14;So Dear to My Heart;82.0;1500000.0;3700000.0;1948-11-29;['Harold D. Schuster', 'Hamilton Luske'];['Walt Disney', 'Perce Pearce'];Paul Smith
+16;Cinderella;74.0;2900000.0;263600000.00000003;1950-02-15;['Clyde Geronimi', 'Hamilton Luske', 'Wilfred Jackson'];Walt Disney;['Oliver Wallace', 'Paul J. Smith']
+17;Treasure Island;96.0;1800000.0;4100000.0;1950-06-22;Byron Haskin;['Walt Disney', 'Perce Pearce'];Clifton Parker
+18;Alice in Wonderland;75.0;3000000.0;5600000.0;1951-07-26;['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske'];Walt Disney;Oliver Wallace
+20;Peter Pan;77.0;4000000.0;87400000.0;1953-02-05;['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske'];Walt Disney;Oliver Wallace
+21;The Sword and the Rose;92.0;2000000.0;1000000.0;1953-08-08;Ken Annakin;['Perce Pearce', 'Walt Disney'];Clifton Parker
+22;The Living Desert;69.0;300000.0;2600000.0;1953-11-10;James Algar;['Ben Sharpsteen', 'Walt Disney'];Paul J. Smith
+25;20.000 Leagues Under the Sea;127.0;5000000.0;28200000.0;1954-12-23;Richard Fleischer;Walt Disney;['Paul Smith', 'Joseph S. Dubin', '(orchestration)']
+27;Lady and the Tramp;76.0;4000000.0;187000000.0;1955-06-22;['Clyde Geronimi', 'Wilfred Jackson', 'Hamilton Luske'];Walt Disney;Oliver Wallace
+40;Sleeping Beauty;75.0;6000000.0;51600000.0;1959-01-29;['Clyde Geronimi (supervising)', 'Eric Larson', 'Wolfgang Reitherman', 'Les Clark'];Walt Disney;George Bruns (adapted from Tchaikovsky's Sleeping Beauty Ballet )
+41;The Shaggy Dog;104.0;1000000.0;12300000.0;1959-03-19;Charles Barton;['Walt Disney', 'Bill Walsh'];Paul J. Smith
+43;Third Man on the Mountain;105.0;2000000.0;1700000.0;1959-11-10;Ken Annakin;['Bill Anderson', 'Walt Disney'];William Alwyn
+46;Pollyanna;134.0;2500000.0;3750000.0;1960-05-19;David Swift;['David Swift', 'Walt Disney', 'Associate Producer:', 'George Golitzen'];Paul Smith (Score)
+49;Swiss Family Robinson;126.0;4000000.0;40000000.0;1960-12-21;['John McKimson', 'Ken Annakin'];['Bill Anderson', 'Basil Keys', 'Walt Disney'];['William Alwyn', '(composer)', 'Muir Mathieson', '(conductor)']
+50;One Hundred and One Dalmatians;79.0;3600000.0;303000000.0;1961-01-25;['Clyde Geronimi', 'Hamilton Luske', 'Wolfgang Reitherman'];Walt Disney;George Bruns
+55;Babes in Toyland;105.0;3000000.0;4600000.0;1961-12-14;Jack Donohue;Walt Disney;['Victor Herbert', 'George Bruns', 'Mel Leven (new lyrics)']
+57;Bon Voyage!;130.0;3000000.0;5000000.0;1962-05-17;James Neilson;Walt Disney;Paul Smith
+67;The Sword in the Stone;79.0;3000000.0;22200000.0;1963-12-25;Wolfgang Reitherman;Walt Disney;George Bruns
+72;Mary Poppins;139.0;4400000.0;103100000.0;1964-08-27;Robert Stevenson;Walt Disney;['Richard M. Sherman (songs)', 'Robert B. Sherman (songs)', 'Irwin Kostal (score)']
+84;The Jungle Book;78.0;4000000.0;378000000.0;1967-10-18;Wolfgang Reitherman;Walt Disney;George Bruns
+86;The Happiest Millionaire;164.0;5000000.0;5000000.0;1967-06-23;Norman Tokar;['Walt Disney', 'Bill Anderson'];['Songs:', 'Score:', 'Jack Elliott']
+91;The Love Bug;108.0;5000000.0;51264000.0;1968-12-24;Robert Stevenson;Bill Walsh;George Bruns
+98;The Aristocats;79.0;4000000.0;191000000.0;1970-12-11;Wolfgang Reitherman;['Winston Hibler', 'Wolfgang Reitherman'];George Bruns
+102;Bedknobs and Broomsticks;118.0;6300000.0;17900000.0;1971-10-07;Robert Stevenson;Bill Walsh;Irwin Kostal
+111;Robin Hood;83.0;5000000.0;32000000.0;1973-11-08;Wolfgang Reitherman;Wolfgang Reitherman;George Bruns
+116;The Island at the Top of the World;93.0;8000000.0;10000000.0;1974-12-20;Robert Stevenson;Winston Hibler;Maurice Jarre
+127;Freaky Friday;95.0;5000000.0;36000000.0;1976-12-17;Gary Nelson;Ron Miller;Johnny Mandel
+131;The Rescuers;77.0;7500000.0;169000000.0;1977-06-22;['Wolfgang Reitherman', 'John Lounsbery', 'Art Stevens'];['Wolfgang Reitherman', 'Ron W. Miller'];Artie Butler
+133;Pete's Dragon;128.0;10000000.0;36.0;1977-11-03;Don Chaffey;['Jerome Courtland', 'Ron W. Miller'];Irwin Kostal
+141;The Black Hole;98.0;20000000.0;35800000.0;1979-12-18;Gary Nelson;Ron Miller;John Barry
+144;The Watcher in the Woods;84.0;9000000.0;5000000.0;1980-04-17;['John Hough', 'Vincent McEveety (uncredited)'];Ron Miller;Stanley Myers
+146;The Last Flight of Noah's Ark;97.0;6000000.0;11000000.0;1980-07-09;Charles Jarrott;['Ron Miller', 'Jan Williams'];Maurice Jarre
+147;Popeye;114.0;20000000.0;60000000.0;1980-12-06;Robert Altman;Robert Evans;Harry Nilsson
+150;Dragonslayer;109.0;18000000.0;14100000.0;1981-06-26;Matthew Robbins;['Hal Barwood', 'Howard W. Koch'];Alex North
+151;The Fox and the Hound;83.0;12000000.0;63500000.0;1981-07-10;['Ted Berman', 'Richard Rich', 'Art Stevens'];['Ron Miller', 'Wolfgang Reitherman', 'Art Stevens'];Buddy Baker
+155;Tex;103.0;5000000.0;7400000.0;1982-07-30;Tim Hunter;['Tim Zinnemann', 'Ron Miller'];Pino Donaggio
+157;Something Wicked This Way Comes;95.0;19000000.0;8400000.0;1983-04-29;Jack Clayton;Peter Douglas;James Horner
+158;Never Cry Wolf;105.0;11000000.0;27600000.0;1983-10-07;Carroll Ballard;['Lewis Allen', 'Jack Couffer', 'Joseph Strick'];Mark Isham
+159;Return to Oz;113.0;28000000.0;11100000.0;1985-06-21;Walter Murch;Paul Maslansky;David Shire
+160;The Black Cauldron;80.0;25000000.0;21300000.0;1985-07-26;['Ted Berman', 'Richard Rich'];['Joe Hale', 'Ron Miller'];Elmer Bernstein
+163;The Great Mouse Detective;74.0;14000000.0;38700000.0;1986-07-02;['Ron Clements', 'Burny Mattinson', 'Dave Michener', 'John Musker'];Burny Mattinson;Henry Mancini
+164;Flight of the Navigator;90.0;9000000.0;18564613.0;1986-08-01;Randal Kleiser;['Dimitri Villard', 'Robert Wald'];Alan Silvestri
+166;The Man from Snowy River II;110.0;8700000.0;13687027.0;1988-03-24;Geoff Burrowes;Geoff Burrowes;Bruce Rowland
+168;Honey. I Shrunk the Kids;93.0;18000000.0;222700000.0;1989-06-23;Joe Johnston;Penney Finkelman Cox;James Horner
+169;Cheetah;84.0;5000000.0;8153677.0;1989-08-18;Jeff Blyth;['Roy E. Disney', 'Robert Halmi, Sr.'];Bruce Rowland
+171;DuckTales the Movie: Treasure of the Lost Lamp;69.0;20000000.0;18100000.0;1990-08-03;Bob Hathcock;['Bob Hathcock', 'Jean-Pierre Quenet'];David Newman
+173;White Fang;107.0;14000000.0;34800000.0;1991-01-18;Randal Kleiser;Markay Powell;['Basil Poledouris', 'Hans Zimmer', '(additional music)']
+174;Shipwrecked;93.0;8700000.0;15100000.0;1990-10-03;Nils Gaup;['John M. Jacobsen', 'Nigel Wooll'];Patrick Doyle
+176;The Rocketeer;108.0;35000000.0;46700000.0;1991-06-21;Joe Johnston;['Charles Gordon', 'Lawrence Gordon', 'Lloyd Levin'];James Horner
+177;Beauty and the Beast;84.0;25000000.0;440100000.0;1991-09-29;['Gary Trousdale', 'Kirk Wise'];Don Hahn;Alan Menken
+178;Newsies;121.0;15000000.0;2800000.0;1992-04-10;Kenny Ortega;Michael Finnell;['Alan Menken', 'J. A. C. Redford']
+179;Honey. I Blew Up the Kid;89.0;40000000.0;58700000.0;1992-07-17;Randal Kleiser;['Dawn Steel', 'Edward S. Feldman'];Bruce Broughton
+180;The Mighty Ducks;104.0;14000000.0;50800000.0;1992-10-02;Stephen Herek;['Jon Avnet', 'Jordan Kerner'];David Newman
+181;Aladdin;90.0;28000000.0;504100000.0;1992-11-25;['John Musker', 'Ron Clements'];['John Musker', 'Ron Clements'];Alan Menken
+182;The Muppet Christmas Carol;86.0;12000000.0;27200000.0;1992-12-11;Brian Henson;['Brian Henson', 'Martin G. Baker'];Miles Goodman
+185;The Adventures of Huck Finn;107.0;6500000.0;24100000.0;1993-04-02;Stephen Sommers;['John Baldecchi', 'Steve White'];Bill Conti
+186;Hocus Pocus;96.0;28000000.0;39500000.0;1993-07-16;Kenny Ortega;['David Kirschner', 'Steven Haft'];John Debney
+187;Cool Runnings;98.0;17000000.0;154900000.0;1993-10-01;Jon Turteltaub;['Dawn Steel', 'Susan B. Landau', 'Jeffrey Bydalek'];Hans Zimmer
+188;The Three Musketeers;105.0;30000000.0;53900000.0;1993-11-12;Stephen Herek;['Roger Birnbaum', 'Joe Roth', 'Jon Avnet'];Michael Kamen
+190;Blank Check;94.0;13000000.0;30600000.0;1994-02-11;Rupert Wainwright;['Gary Adelson', 'Craig Baumgarten', 'Tony Shimkin'];Nicholas Pike
+193;The Lion King;88.0;45000000.0;968500000.0;1994-06-15;['Roger Allers', 'Rob Minkoff'];Don Hahn;Hans Zimmer
+194;Angels in the Outfield;102.0;31000000.0;50200000.0;1994-07-15;William Dear;['Irby Smith', 'Joe Roth', 'Roger Birnbaum'];Randy Edelman
+196;The Santa Clause;97.0;22000000.0;189800000.0;1994-11-11;John Pasquin;['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver'];Michael Convertino
+197;Rudyard Kipling's The Jungle Book;111.0;30000000.0;43200000.0;1994-12-25;Stephen Sommers;['Edward S. Feldman', 'Raju Patel'];Basil Poledouris
+199;Man of the House;96.0;22000000.0;40070995.0;1995-03-03;James Orr;['Bonnie Bruckheimer', 'Marty Katz'];Mark Mancina
+200;Tall Tale;98.0;32000000.0;11000000.0;1995-03-24;Jeremiah S. Chechik;['Roger Birnbaum', 'Joe Roth'];Randy Edelman
+202;Pocahontas;81.0;55000000.0;346100000.0;1995-06-23;['Mike Gabriel', 'Eric Goldberg'];Jim Pentecost;Alan Menken
+203;Operation Dumbo Drop;108.0;24000000.0;24670346.0;1995-07-28;Simon Wincer;['Diane Nabatoff', 'David Madden'];David Newman
+204;A Kid in King Arthur's Court;89.0;15000000.0;13400000.0;1995-08-11;Michael Gottlieb;['Peter Abrams', 'J.P. Guerin', 'Robert L. Levy'];J. A. C. Redford
+205;The Big Green;99.0;12000000.0;17700000.0;1995-09-29;Holly Goldberg Sloan;['Dennis Bishop', 'Roger Birnbaum'];Randy Edelman
+207;Toy Story;81.0;30000000.0;373600000.0;1995-11-19;John Lasseter;['Bonnie Arnold', 'Ralph Guggenheim'];Randy Newman
+209;Muppet Treasure Island;100.0;31000000.0;34300000.0;1996-02-16;Brian Henson;['Martin G. Baker', 'Brian Henson'];Hans Zimmer
+211;James and the Giant Peach;79.0;38000000.0;28900000.0;1996-04-12;Henry Selick;['Denise Di Novi', 'Tim Burton'];Randy Newman
+212;The Hunchback of Notre Dame;91.0;100000000.0;325300000.0;1996-06-21;['Gary Trousdale', 'Kirk Wise'];Don Hahn;Alan Menken
+213;First Kid;101.0;15000000.0;26491793.0;1996-08-30;David M. Evans;Roger Birnbaum;Richard Gibbs
+215;101 Dalmatians;103.0;75000000.0;320700000.0;1996-11-27;Stephen Herek;['John Hughes', 'Ricardo Mestres'];Michael Kamen
+217;Jungle 2 Jungle;105.0;32000000.0;59900000.0;1997-03-07;John Pasquin;['Richard Baker', 'Brad Krevoy'];Michael Convertino
+218;Hercules;93.0;85000000.0;252700000.0;1997-06-13;['Ron Clements', 'John Musker'];['Alice Dewey', 'Ron Clements', 'John Musker'];Alan Menken
+219;George of the Jungle;92.0;55000000.0;174400000.0;1997-07-16;Sam Weisman;['David Hoberman', 'Jordan Kerner', 'Jon Avnet'];Marc Shaiman
+220;Air Bud;98.0;3000000.0;27800000.0;1997-08-01;Charles Martin Smith;['Robert Vince', 'William Vince'];Brahm Wenger
+221;RocketMan;95.0;16000000.0;15400000.0;1997-10-10;Stuart Gillard;Roger Birnbaum;Michael Tavera
+222;Flubber;93.0;80000000.0;178000000.0;1997-11-16;Les Mayfield;['John Hughes', 'Ricardo Mestres'];Danny Elfman
+223;Mr. Magoo;87.0;30000000.0;28900000.0;1997-12-25;Stanley Tong;Ben Myron;Mike Tavera
+224;Meet the Deedles;93.0;24000000.0;4400000.0;1998-03-27;Steve Boyum;['Dale Pollock', 'Aaron Meyerson'];Steve Bartek
+225;Mulan;87.0;90000000.0;304300000.0;1998-06-19;['Barry Cook', 'Tony Bancroft'];Pam Coats;Jerry Goldsmith
+226;The Parent Trap;128.0;15000000.0;92100000.0;1998-07-29;Nancy Meyers;Charles Shyer;Alan Silvestri
+227;I'll Be Home for Christmas;86.0;30000000.0;12200000.0;1998-11-13;Arlene Sanford;['Robin French', 'Justis Greene', 'David Hoberman', 'Tracey Trench'];John Debney
+228;A Bug's Life;95.0;120000000.0;363300000.0;1998-11-20;John Lasseter;['Darla K. Anderson', 'Kevin Reher'];Randy Newman
+229;Mighty Joe Young;114.0;90000000.0;50600000.0;1998-12-25;Ron Underwood;['Ted Hartley', 'Tom Jacobson'];James Horner
+230;My Favorite Martian;93.0;65000000.0;36800000.0;1999-02-12;Donald Petrie;['Jerry Leider', 'Robert Shapiro', 'Marc Toberoff'];John Debney
+231;Doug's 1st Movie;83.0;5000000.0;19400000.0;1999-03-26;Maurice Joyce;['David Campbell', 'Melanie Grisanti', 'Jim Jinkins', 'Bruce Knapp', 'Jack Spillum'];Mark Watters
+233;Tarzan;88.0;130000000.0;448200000.0;1999-06-12;['Kevin Lima', 'Chris Buck'];Bonnie Arnold;Mark Mancina
+234;Inspector Gadget;78.0;90000000.0;134400000.0;1999-07-23;David Kellogg;['Roger Birnbaum', 'Andy Heyward', 'Jordan Kerner', 'Aaron Meyerson'];John Debney
+236;Toy Story 2;92.0;90000000.0;497400000.0;1999-11-13;John Lasseter;['Helene Plotkin', 'Karen Robert Jackson'];Randy Newman
+237;Fantasia 2000;74.0;85000000.0;90900000.0;1999-12-17;['Don Hahn', 'Pixote Hunt', 'Hendel Butoy', 'Eric Goldberg', 'James Algar', 'Francis Glebas', 'Paul and Gaëtan Brizzi'];['Roy E. Disney', 'Donald W. Ernst'];See program
+238;The Tigger Movie;77.0;15000000.0;96200000.0;2000-02-11;Jun Falkenstein;Cheryl Abood;Harry Gregson-Williams
+239;Dinosaur;82.0;127500000.0;349800000.0;2000-05-19;['Ralph Zondag', 'Eric Leighton'];Pam Marsden;James Newton Howard
+240;The Kid;104.0;65000000.0;110300000.0;2000-07-07;Jon Turteltaub;['Hunt Lowry', 'Arnold Rifkin', 'Christina Steinberg', 'Jon Turteltaub', 'David Willis'];['Marc Shaiman', 'Jason White']
+241;Remember The Titans;113.0;30000000.0;136700000.0;2000-09-29;Boaz Yakin;['Jerry Bruckheimer', 'Chad Oman'];Trevor Rabin
+242;102 Dalmatians;100.0;85000000.0;183600000.0;2000-11-22;Kevin Lima;Edward S. Feldman;David Newman
+243;The Emperor's New Groove;78.0;100000000.0;169300000.0;2000-12-15;Mark Dindal;Randy Fullmer;John Debney
+244;Recess: School's Out;83.0;23000000.0;44500000.0;2001-02-10;Chuck Sheetz;['Joe Ansolabehere', 'Paul Germain', 'Stephen Swofford'];Denis M. Hannigan
+245;Atlantis: The Lost Empire;96.0;90000000.0;186100000.0;2001-06-03;['Gary Trousdale', 'Kirk Wise'];Don Hahn;James Newton Howard
+246;The Princess Diaries;115.0;26000000.0;165300000.0;2001-08-03;Garry Marshall;['Whitney Houston', 'Debra Martin Chase', 'Mario Iscovich'];John Debney
+247;Max Keeble's Big Move;86.0;25000000.0;18600000.0;2001-10-05;Tim Hill;Mike Karz;Michael Wandmacher
+248;Monsters. Inc.;92.0;115000000.0;577400000.0;2001-10-28;Pete Docter;Darla K. Anderson;Randy Newman
+249;Snow Dogs;99.0;33000000.0;115000000.0;2002-01-18;Brian Levant;Jordan Kerner;John Debney
+250;Return to Never Land;73.0;20000000.0;115100000.0;2002-02-10;Robin Budd;['Christopher Chase', 'Michelle Pappalardo-Robinson', 'Dan Rounds'];['Joel McNeely (Score)', 'They Might Be Giants (Songs)']
+251;The Rookie;128.0;22000000.0;80700000.0;2002-03-29;John Lee Hancock;['Mark Ciardi', 'Gordon Gray', 'Mark Johnson'];Carter Burwell
+252;Lilo & Stitch;85.0;80000000.0;273100000.0;2002-06-21;['Chris Sanders', 'Dean DeBlois'];Clark Spencer;Alan Silvestri
+253;The Country Bears;88.0;35000000.0;18000000.0;2002-07-21;Peter Hastings;['Jeffrey Chernov', 'Andrew Gunn'];Christopher Young
+254;Tuck Everlasting;96.0;15000000.0;19300000.0;2002-10-11;Jay Russell;['Marc Abraham', 'Jane Startz', 'Thomas Bliss'];William Ross
+255;The Santa Clause 2;104.0;65000000.0;172900000.0;2002-11-01;Michael Lembeck;['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver'];George S. Clinton
+256;Treasure Planet;95.0;140000000.0;109600000.0;2002-11-27;['Ron Clements', 'John Musker'];['Ron Clements', 'John Musker', 'Roy Conli'];James Newton Howard
+257;The Jungle Book 2;72.0;20000000.0;135700000.0;2003-02-14;Steve Trenbirth;['Christopher Chase', 'Mary Thorne'];Joel McNeely
+258;Piglet's Big Movie;75.0;46000000.0;62900000.0;2003-03-16;Francis Glebas;Michelle Pappalardo-Robinson;['Carl Johnson', 'Carly Simon']
+259;Ghosts of the Abyss;61.0;13000000.0;28700000.0;2003-03-31;James Cameron;['John Bruno', 'James Cameron', 'Chuck Comisky', 'Janace Tashjian', 'Andrew Wight'];Joel McNeely
+260;Holes;117.0;20000000.0;71400000.0;2003-04-18;Andrew Davis;['Andrew Davis', 'Lowell D. Blank', 'Mike Medavoy', 'Teresa Tucker-Davies'];Joel McNeely
+261;The Lizzie McGuire Movie;94.0;17000000.0;55500000.0;2003-05-02;Jim Fall;Stan Rogow;Cliff Eidelman
+262;Finding Nemo;100.0;94000000.0;940300000.0;2003-05-30;Andrew Stanton;Graham Walters;Thomas Newman
+263;Pirates of the Caribbean: The Curse of the Black Pearl;143.0;140000000.0;654300000.0;2003-06-28;Gore Verbinski;Jerry Bruckheimer;['Klaus Badelt']
+264;Freaky Friday;97.0;26000000.0;160800000.0;2003-08-04;Mark Waters;Andrew Gunn;Rolfe Kent
+265;Brother Bear;85.0;46000000.0;250400000.0;2003-11-01;['Aaron Blaise', 'Robert Walker'];Chuck Williams;['Phil Collins', 'Mark Mancina']
+266;The Haunted Mansion;86.0;90000000.0;182300000.0;2003-11-26;Rob Minkoff;['Andrew Gunn', 'Don Hahn'];Mark Mancina
+268;Teacher's Pet;74.0;10000000.0;6500000.0;2004-01-16;Timothy Björklund;Stephen Swofford;Stephen James Taylor
+269;Miracle;136.0;28000000.0;64500000.0;2004-02-06;Gavin O'Connor;"['Mark Ciardi', 'Gordon Gray', 'Ross Greenburg', 'Justis Greene', 'Jon Mone', ""Greg O'Connor""]";Mark Isham
+270;Confessions of a Teenage Drama Queen;89.0;15000000.0;33100000.0;2004-02-20;Sara Sugarman;['Robert Shapiro', 'Jerry Leider'];Mark Mothersbaugh
+271;Home on the Range;76.0;110000000.0;145500000.0;2004-04-02;['Will Finn', 'John Sanford'];Alice Dewey Goldstone;Alan Menken
+273;Around the World in 80 Days;120.0;110000000.0;72200000.0;2004-06-13;Frank Coraci;['Bill Badalato', 'Hal Lieberman'];['Trevor Jones', 'David A. Stewart']
+275;The Princess Diaries 2: Royal Engagement;113.0;45000000.0;134700000.0;2004-08-11;Garry Marshall;['Whitney Houston', 'Debra Martin Chase'];John Debney
+276;The Incredibles;115.0;92000000.0;633000000.0;2004-10-27;Brad Bird;John Walker;Michael Giacchino
+277;National Treasure;131.0;100000000.0;347500000.0;2004-11-19;Jon Turteltaub;['Jerry Bruckheimer', 'Jon Turteltaub'];Trevor Rabin
+279;Pooh's Heffalump Movie;68.0;20000000.0;52900000.0;2005-02-11;Frank Nissen;Jessica Koplos-Miller;Joel McNeely
+280;The Pacifier;95.0;56000000.0;198600000.0;2005-03-04;Adam Shankman;['Roger Birnbaum', 'Gary Barber', 'Jonathan Glickman'];John Debney
+281;Ice Princess;97.0;25000000.0;27600000.0;2005-03-18;Tim Fywell;Bridget Johnson;Christophe Beck
+282;Herbie: Fully Loaded;101.0;50000000.0;144100000.0;2005-06-22;Angela Robinson;Robert Simonds;Mark Mothersbaugh
+283;Sky High;100.0;35000000.0;86400000.0;2005-07-29;Mike Mitchell;Andrew Gunn;Michael Giacchino
+284;Valiant;76.0;35000000.0;61700000.0;2005-03-25;Gary Chapman;['John H. Williams', 'Barnaby Thompson (executive producer)'];George Fenton
+285;The Greatest Game Ever Played;120.0;25000000.0;15400000.0;2005-09-30;Bill Paxton;['David Blocker', 'Larry Brezner', 'Mark Frost'];Brian Tyler
+286;Chicken Little;81.0;150000000.0;314400000.0;2005-10-30;Mark Dindal;Randy Fullmer;John Debney
+287;The Chronicles of Narnia: The Lion. the Witch and the Wardrobe;143.0;180000000.0;745000000.0;2005-12-07;Andrew Adamson;['Mark Johnson', 'Phillip Steuer'];Harry Gregson-Williams
+288;Glory Road's;106.0;30000000.0;42900000.0;2006-01-13;James Gartner;['Jerry Bruckheimer'];Trevor Rabin
+289;Roving Mars;40.0;1000000.0;11000000.0;2006-01-27;George Butler;['George Butler', 'Frank Marshall'];['Philip Glass', 'Sigur Rós']
+290;Eight Below;120.0;40000000.0;120500000.0;2006-02-17;Frank Marshall;['Patrick Crowley', 'David Hoberman'];Mark Isham
+291;The Shaggy Dog;99.0;50000000.0;87100000.0;2006-03-10;Brian Robbins;['David Hoberman', 'Tim Allen'];Alan Menken
+292;The Wild;82.0;80000000.0;102300000.0;2006-04-14;"Steve ""Spaz"" Williams";['Clint Goldman', 'Beau Flynn'];Alan Silvestri
+293;Cars;117.0;120000000.0;462000000.0;2006-05-26;John Lasseter;Darla K. Anderson;Randy Newman
+294;Pirates of the Caribbean: Dead Man's Chest;151.0;225000000.0;1066000000.0;2006-06-24;Gore Verbinski;Jerry Bruckheimer;Hans Zimmer
+295;Invincible;104.0;30000000.0;58500000.0;2006-08-25;Ericson Core;['Gordon Gray', 'Mark Ciardi'];Mark Isham
+296;The Nightmare Before Christmas;76.0;18000000.0;89100000.0;1993-10-29;Henry Selick;['Tim Burton', 'Denise Di Novi'];Danny Elfman
+297;The Santa Clause 3: The Escape Clause;92.0;12000000.0;110800000.0;2006-11-03;Michael Lembeck;['Robert Newmyer', 'Brian Reilly', 'Jeffrey Silver'];George S. Clinton
+298;Bridge to Terabithia;95.0;20000000.0;138000000.0;2007-02-16;Gábor Csupó;['David L. Paterson', 'Lauren Levine', 'Hal Lieberman'];Aaron Zigman
+300;Pirates of the Caribbean: At World's End;168.0;300000000.0;961000000.0;2007-05-19;Gore Verbinski;Jerry Bruckheimer;Hans Zimmer
+301;Ratatouille;111.0;150000000.0;620700000.0;2007-06-22;Brad Bird;Brad Lewis;Michael Giacchino
+302;Underdog;82.0;25000000.0;65300000.0;2007-08-03;Frederik Du Chau;['Gary Barber', 'Roger Birnbaum', 'Jonathan Glickman', 'Jay Polstein'];Randy Edelman
+304;The Game Plan;110.0;22000000.0;146600000.0;2007-09-23;Andy Fickman;['Mark Ciardi', 'Gordon Gray'];Nathan Wang
+305;Enchanted;107.0;85000000.0;340500000.0;2007-10-20;Kevin Lima;['Barry Josephson', 'Barry Sonnenfeld'];Alan Menken
+306;National Treasure: Book of Secrets;124.0;130000000.0;459200000.0;2007-12-21;Jon Turteltaub;['Jerry Bruckheimer', 'Jon Turteltaub'];Trevor Rabin
+307;Hannah Montana and Miley Cyrus: Best of Both Worlds Concert;74.0;7000000.0;70600000.0;2008-02-01;Bruce Hendricks;Art Repola;['Matthew Gerrard', 'Robbie Nevil', 'Miley Cyrus', 'Jamie Houston', 'Tim James']
+308;College Road Trip;83.0;25000000.0;51500000.0;2008-03-07;Roger Kumble;Andrew Gunn;Edward Shearmur
+309;The Chronicles of Narnia: Prince Caspian;150.0;225000000.0;419700000.0;2008-05-07;Andrew Adamson;['Mark Johnson', 'Andrew Adamson', 'Philip Steuer'];Harry Gregson-Williams
+310;WALL-E;97.0;180000000.0;533299999.99999994;2008-06-23;Andrew Stanton;Jim Morris;Thomas Newman
+311;Beverly Hills Chihuahua;91.0;20000000.0;149300000.0;2008-09-26;Raja Gosnell;['David Hoberman', 'Todd Lieberman', 'John Jacobs', 'Ricardo Del Río'];Heitor Pereira
+313;High School Musical 3: Senior Year;111.0;11000000.0;252900000.0;2008-10-17;Kenny Ortega;['Bill Borden', 'Barry Rosenbush'];David Lawrence
+314;Bolt;96.0;150000000.0;310000000.0;2008-11-21;['Chris Williams', 'Byron Howard'];Clark Spencer;John Powell
+315;Bedtime Stories;99.0;80000000.0;212900000.0;2008-12-25;Adam Shankman;['Adam Sandler', 'Andrew Gunn', 'Jack Giarraputo'];Rupert Gregson-Williams
+317;Race to Witch Mountain;98.0;50000000.0;106400000.0;2009-03-11;Andy Fickman;Andrew Gunn;Trevor Rabin
+318;Hannah Montana: The Movie;97.0;30000000.0;169.2;2009-04-10;Peter Chelsom;['David Blocker', 'Billy Ray Cyrus', 'Alfred Gough', 'Miles Millar', 'Steven Peterman', 'Michael Poryes'];John Debney
+319;Earth;99.0;47000000.0;109000000.0;2007-10-10;['Alastair Fothergill', 'Mark Linfield'];['Alix Tidmarsh', 'Sophokles Tasioulius'];['George Fenton', 'Berliner Philharmoniker']
+320;Up;96.0;175000000.0;735100000.0;2009-05-29;Pete Docter;Jonas Rivera;Michael Giacchino
+322;G-Force;90.0;150000000.0;292800000.0;2009-07-24;Hoyt H. Yeatman Jr.;Jerry Bruckheimer;Trevor Rabin
+325;A Christmas Carol;96.0;175000000.0;325000000.0;2009-11-03;Robert Zemeckis;['Steve Starkey', 'Robert Zemeckis', 'Jack Rapke'];Alan Silvestri
+326;Old Dogs;88.0;35000000.0;96800000.0;2009-11-25;Walt Becker;['Andrew Panay', 'Robert L. Levy', 'Peter Abrams'];John Debney
+327;The Princess and the Frog;97.0;105000000.0;269000000.0;2009-11-25;['Ron Clements', 'John Musker'];Peter Del Vecho;Randy Newman
+328;Alice in Wonderland;108.0;200000000.0;1024999999.9999999;2010-02-25;Tim Burton;['Richard D. Zanuck', 'Joe Roth', 'Suzanne Todd', 'Jennifer Todd'];Danny Elfman
+330;Oceans;104.0;80000000.0;82700000.0;2009-10-17;['Jacques Perrin', 'Jacques Cluzaud', '(co-director)'];['Jacques Perrin', 'Romain Legrand', 'Nicolas Mauvernay', 'Jake Eberts'];Bruno Coulais
+331;Prince of Persia: The Sands of Time;116.0;150.0;336400000.0;2010-05-09;Mike Newell;Jerry Bruckheimer;Harry Gregson-Williams
+332;Toy Story 3;103.0;200000000.0;1067000000.0;2010-06-12;Lee Unkrich;Darla K. Anderson;Randy Newman
+333;The Sorcerer's Apprentice;109.0;150000000.0;215300000.0;2010-07-08;Jon Turteltaub;Jerry Bruckheimer;Trevor Rabin
+335;Secretariat;123.0;35000000.0;60300000.0;2010-09-30;Randall Wallace;['Mark Ciardi', 'Gordon Gray'];Nick Glennie-Smith
+337;Tangled;100.0;260000000.0;592400000.0;2010-11-14;['Nathan Greno', 'Byron Howard'];Roy Conli;Alan Menken
+339;Tron: Legacy;125.0;150000000.0;410000000.0;2010-11-30;Joseph Kosinski;['Sean Bailey', 'Jeffrey Silver', 'Steven Lisberger'];Daft Punk
+342;Mars Needs Moms;88.0;150000000.0;39200000.0;2011-03-11;Simon Wells;['Robert Zemeckis', 'Jack Rapke', 'Steve Starkey', 'Steven Boyd'];John Powell
+344;African Cats;89.0;5000000.0;30900000.0;2011-04-22;['Alastair Fothergill', 'Keith Scholey'];['Alix Tidmarsh', 'Keith Scholey'];Nicholas Hooper
+345;Prom;104.0;8000000.0;10100000.0;2011-04-29;Joe Nussbaum;['Ted Griffin', 'Justin Springer'];Deborah Lurie
+346;Pirates of the Caribbean: On Stranger Tides;137.0;410600000.0;1046000000.0;2011-05-07;Rob Marshall;Jerry Bruckheimer , Neal H. Moritz;Hans Zimmer
+347;Cars 2;106.0;200000000.0;562100000.0;2011-06-18;John Lasseter;Denise Ream;Michael Giacchino
+348;Winnie the Pooh;69.0;30000000.0;50100000.0;2011-04-06;['Stephen J. Anderson', 'Don Hall'];['Peter Del Vecho', 'Clark Spencer'];Henry Jackman
+349;The Muppets;103.0;45000000.0;165200000.0;2011-11-04;James Bobin;['David Hoberman', 'Todd Lieberman'];Christophe Beck
+350;John Carter;132.0;306600000.0;284100000.0;2012-02-22;Andrew Stanton;['Jim Morris', 'Colin Wilson', 'Lindsey Collins'];Michael Giacchino
+351;Chimpanzee;77.0;5000000.0;34800000.0;2012-04-20;['Alastair Fothergill', 'Mark Linfield'];['Alastair Fothergill', 'Mark Linfield', 'Alix Tidmarsh'];Nicholas Hooper
+353;Brave;93.0;185000000.0;540400000.0;2012-06-10;['Mark Andrews', 'Brenda Chapman'];Katherine Sarafian;Patrick Doyle
+354;The Odd Life of Timothy Green;104.0;25000000.0;56000000.0;2012-08-15;Peter Hedges;['Scott Sanders', 'James Whitaker', 'Ahmet Zappa'];Geoff Zanelli
+355;Frankenweenie;87.0;39000000.0;81500000.0;2012-09-20;Tim Burton;['Tim Burton', 'Allison Abbate'];Danny Elfman
+356;Wreck-It Ralph;101.0;165000000.0;471200000.0;2012-10-29;Rich Moore;Clark Spencer;Henry Jackman
+357;Oz the Great and Powerful;130.0;200000000.0;493300000.0;2013-02-14;Sam Raimi;Joe Roth;Danny Elfman
+359;Monsters University;104.0;200000000.0;743600000.0;2013-06-05;Dan Scanlon;Kori Rae;Randy Newman
+360;The Lone Ranger;149.0;225000000.0;260500000.0;2013-06-22;Gore Verbinski;['Jerry Bruckheimer', 'Gore Verbinski'];Hans Zimmer
+361;Planes;92.0;50000000.0;239300000.0;2013-08-02;Klay Hall;Tracy Balthazor-Flynn;Mark Mancina
+362;Frozen;102.0;150000000.0;1280000000.0;2013-11-19;['Chris Buck', 'Jennifer Lee'];Peter Del Vecho;['Christophe Beck', 'Robert Lopez', 'Kristen Anderson-Lopez']
+363;Saving Mr. Banks;125.0;35000000.0;117900000.0;2013-10-20;John Lee Hancock;['Alison Owen', 'Ian Collie', 'Philip Steuer'];Thomas Newman
+364;Muppets Most Wanted;107.0;51000000.0;80400000.0;2014-03-11;James Bobin;['David Hoberman', 'Todd Lieberman'];Christophe Beck
+366;Million Dollar Arm;124.0;25000000.0;39200000.0;2014-05-06;Craig Gillespie;['Joe Roth', 'Mark Ciardi', 'Gordon Gray'];A. R. Rahman
+367;Maleficent;97.0;180000000.0;758500000.0;2014-05-28;Robert Stromberg;Joe Roth;James Newton Howard
+368;Planes: Fire & Rescue;84.0;50000000.0;147000000.0;2014-07-15;Bobs Gannaway;Ferrell Barron;Mark Mancina
+369;Khoobsurat;127.0;3200000.0;11000000.0;2014-09-19;Shashanka Ghosh;['Rhea Kapoor', 'Anil Kapoor', 'Siddharth Roy Kapur'];['Songs:', 'Sneha Khanwalkar', 'Badshah', 'Amaal Mallik', 'Background Score:', 'Simaab Sen']
+370;Alexander and the Terrible Horrible No Good Very Bad Day;81.0;28000000.0;100700000.0;2014-10-06;Miguel Arteta;['Shawn Levy', 'Dan Levine', 'Lisa Henson'];Christophe Beck
+371;Big Hero 6;102.0;165000000.0;657800000.0;2014-10-23;['Don Hall', 'Chris Williams'];Roy Conli;Henry Jackman
+372;Into the Woods;124.0;50000000.0;213100000.0;2014-12-08;Rob Marshall;['Rob Marshall', 'John DeLuca', 'Marc Platt', 'Callum McDougall'];Stephen Sondheim
+373;McFarland. USA;129.0;25000000.0;45700000.0;2015-02-09;Niki Caro;['Gordon Gray', 'Mark Ciardi'];Antônio Pinto
+374;Cinderella;106.0;95000000.0;542400000.0;2015-02-13;Kenneth Branagh;['Simon Kinberg', 'Allison Shearmur', 'David Barron'];Patrick Doyle
+375;Monkey Kingdom;82.0;5000000.0;17100000.0;2015-04-17;['Mark Linfield', 'Alastair Fothergill'];['Mark Linfield', 'Alastair Fothergill'];Harry Gregson-Williams
+376;Tomorrowland;130.0;180000000.0;209000000.0;2015-05-09;Brad Bird;['Damon Lindelof', 'Brad Bird', 'Jeffrey Chernov'];Michael Giacchino
+377;Inside Out;94.0;175000000.0;858000000.0;2015-05-18;Pete Docter;Jonas Rivera;Michael Giacchino
+379;The Good Dinosaur;94.0;175000000.0;332200000.0;2015-11-10;Peter Sohn;Denise Ream;['Mychael Danna', 'Jeff Danna']
+380;The Finest Hours;117.0;70000000.0;52100000.0;2016-01-25;Craig Gillespie;['Jim Whitaker', 'Dorothy Aufiero'];Carter Burwell
+381;Zootopia;108.0;150000000.0;1024000000.0;2016-02-13;['Byron Howard', 'Rich Moore'];Clark Spencer;Michael Giacchino
+382;The Jungle Book;106.0;175000000.0;966600000.0;2016-04-04;Jon Favreau;['Jon Favreau', 'Brigham Taylor'];John Debney
+384;Alice Through the Looking Glass;113.0;170000000.0;300000000.0;2016-05-10;James Bobin;['Joe Roth', 'Suzanne Todd', 'Jennifer Todd', 'Tim Burton'];Danny Elfman
+385;Finding Dory;97.0;175000000.0;1028999999.9999999;2016-06-08;Andrew Stanton;Lindsey Collins;Thomas Newman
+386;The BFG;117.0;140000000.0;195200000.0;2016-05-14;Steven Spielberg;['Steven Spielberg', 'Frank Marshall', 'Sam Mercer'];John Williams
+387;Pete's Dragon;103.0;65000000.0;143700000.0;2016-08-08;David Lowery;James Whitaker;Daniel Hart
+388;Queen of Katwe;124.0;15000000.0;10400000.0;2016-09-10;Mira Nair;['John Carls', 'Lydia Dean Pilcher'];Alex Heffes
+389;Moana;107.0;150000000.0;690800000.0;2016-11-14;['Ron Clements', 'John Musker'];Osnat Shurer;"['Mark Mancina', 'Lin-Manuel Miranda', ""Opetaia Foa'i""]"
+391;March of the Penguins;80.0;8000000.0;127400000.0;2005-01-26;Luc Jacquet;['Yves Darondeau', 'Christophe Lioud', 'Emmanuel Priou'];['Émilie Simon (France)', 'Alex Wurman (US)']
+392;Beauty and the Beast;129.0;160000000.0;1264000000.0;2017-02-23;Bill Condon;['David Hoberman', 'Todd Lieberman'];Alan Menken
+393;Born in China;76.0;5000000.0;25100000.0;2016-08-12;Lu Chuan;['Roy Conli', 'Brian Leith', 'Phil Chapman'];Barnaby Taylor
+394;Pirates of the Caribbean: Dead Men Tell No Tales;129.0;230000000.0;794900000.0;2017-05-11;['Joachim Rønning', 'Espen Sandberg'];Jerry Bruckheimer;Geoff Zanelli
+395;Cars 3;102.0;175000000.0;383900000.0;2017-05-23;Brian Fee;Kevin Reher;Randy Newman
+398;Coco;105.0;175000000.0;807100000.0;2017-10-20;Lee Unkrich;Darla K. Anderson;Michael Giacchino
+399;A Wrinkle in Time;109.0;100000000.0;133400000.0;2018-02-26;Ava DuVernay;['Jim Whitaker', 'Catherine Hand'];Ramin Djawadi
+400;Incredibles 2;118.0;200000000.0;1243000000.0;2018-06-05;Brad Bird;['John Walker', 'Nicole Paradis Grindle'];Michael Giacchino
+401;Christopher Robin;104.0;75000000.0;197700000.0;2018-07-30;Marc Forster;['Brigham Taylor', 'Kristin Burr'];['Geoff Zanelli', 'Jon Brion']
+402;The Nutcracker and the Four Realms;99.0;120000000.0;174000000.0;2018-10-29;['Lasse Hallström', 'Joe Johnston'];['Mark Gordon', 'Larry Franco'];James Newton Howard
+403;Ralph Breaks the Internet;112.0;175000000.0;529299999.99999994;2018-11-05;['Rich Moore', 'Phil Johnston'];Clark Spencer;Henry Jackman
+404;Mary Poppins Returns;131.0;130000000.0;349500000.0;2018-11-29;Rob Marshall;['Rob Marshall', 'John DeLuca', 'Marc Platt'];Marc Shaiman
+405;Dumbo;112.0;170000000.0;353300000.0;2019-03-11;Tim Burton;['Justin Springer', 'Ehren Kruger', 'Katterli Frauenfelder', 'Derek Frey'];Danny Elfman
+408;Toy Story 4;100.0;200000000.0;1073000000.0;2019-06-11;Josh Cooley;['Mark Nielsen', 'Jonas Rivera'];Randy Newman
+409;The Lion King;118.0;250000000.0;1657000000.0;2019-07-09;Jon Favreau;['Jon Favreau', 'Jeffrey Silver', 'Karen Gilchrist'];Hans Zimmer
+410;Maleficent: Mistress of Evil;119.0;185000000.0;491700000.0;2019-10-18;Joachim Rønning;['Joe Roth', 'Angelina Jolie', 'Duncan Henderson'];Geoff Zanelli
+413;Frozen II;103.0;150000000.0;1450000000.0;2019-11-07;['Chris Buck', 'Jennifer Lee'];Peter Del Vecho;['Christophe Beck', 'Robert Lopez', 'Kristen Anderson-Lopez']
+416;Onward;102.0;175000000.0;136400000.0;2020-02-21;Dan Scanlon;Kori Rae;['Mychael Danna', 'Jeff Danna']
+425;Mulan;115.0;200000000.0;57000000.0;2020-03-09;Niki Caro;['Chris Bender', 'Jake Weiner', 'Jason T. Reed'];Harry Gregson-Williams
