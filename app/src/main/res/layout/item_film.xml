@@ -4,72 +4,69 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="horizontal">
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal"
+    tools:ignore="MissingConstraints">
 
 
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="85dp"
         android:layout_height="85dp"
-        android:contentDescription="Image"
-        tools:ignore="MissingConstraints" />
+        android:contentDescription="@string/image" />
 
     <TextView
         android:id="@+id/title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/imageView"
-        android:text="Title"
-        tools:ignore="MissingConstraints" />
+        android:text="@string/title"
+        app:layout_constraintStart_toEndOf="@id/imageView" />
 
     <TextView
         android:id="@+id/director"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="@string/director"
+        android:textSize="10sp"
         app:layout_constraintStart_toEndOf="@id/imageView"
         app:layout_constraintTop_toBottomOf="@id/title"
-        android:textSize="10sp"
-        android:text="Director:"
-        tools:ignore="MissingConstraints" />
+         />
 
     <TextView
         android:id="@+id/producer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/imageView"
-        app:layout_constraintTop_toBottomOf="@id/director"
+        android:text="@string/producer"
         android:textSize="10sp"
-        android:text="producer:"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintStart_toEndOf="@id/imageView"
+        app:layout_constraintTop_toBottomOf="@id/director" />
 
     <TextView
         android:id="@+id/music"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/imageView"
-        app:layout_constraintTop_toBottomOf="@id/producer"
+        android:text="@string/music_by"
         android:textSize="10sp"
-        android:text="music by:"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintStart_toEndOf="@id/imageView"
+        app:layout_constraintTop_toBottomOf="@id/producer" />
 
     <TextView
         android:id="@+id/runningTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/imageView"
-        app:layout_constraintTop_toBottomOf="@id/music"
+        android:text="@string/running_time"
         android:textSize="9sp"
-        android:text="Running Time:"
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintStart_toEndOf="@id/imageView"
+        app:layout_constraintTop_toBottomOf="@id/music" />
+
     <TextView
         android:id="@+id/budget"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:layout_constraintStart_toEndOf="@id/imageView"
-        app:layout_constraintTop_toBottomOf="@id/runningTime"
+        android:text="@string/budget"
         android:textSize="9sp"
-        android:text="budget: "
-        tools:ignore="MissingConstraints" />
+        app:layout_constraintStart_toEndOf="@id/imageView"
+        app:layout_constraintTop_toBottomOf="@id/runningTime" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

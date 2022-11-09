@@ -5,7 +5,6 @@ import android.content.Context;
 import com.study.catalogue.models.Film;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
@@ -21,7 +20,7 @@ public class FilmLoader {
 
     public List<Film> load() {
         List<Film> filmList = new ArrayList<>();
-        try{
+        try {
             InputStream inputStream = context.getAssets().open("DisneyMoviesDataset.csv");
             InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
             BufferedReader reader = new BufferedReader(inputStreamReader);
@@ -38,9 +37,9 @@ public class FilmLoader {
 
     private Film parseFilm(String line) {
         String[] fields = line.split(";");
-        int id = (int)Float.parseFloat(fields[0]);
+        int id = (int) Float.parseFloat(fields[0]);
         String title = fields[1];
-        int runningTime = (int)Float.parseFloat(fields[2]);
+        int runningTime = (int) Float.parseFloat(fields[2]);
         float budget = Float.parseFloat(fields[3]);
         float boxOffice = Float.parseFloat(fields[4]);
         String releaseDate2 = fields[5];

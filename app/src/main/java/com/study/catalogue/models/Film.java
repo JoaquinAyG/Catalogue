@@ -1,15 +1,16 @@
 package com.study.catalogue.models;
 
+import java.io.Serializable;
 import java.util.Objects;
 
-public class Film {
+public class Film implements Serializable {
 
     private int id;
     private String title;
     private int runningTime;
     private float budget;
     private float boxOffice;
-    private String releaseDate2;
+    private String releaseDate;
     private String directedBy;
     private String producedBy;
     private String musicBy;
@@ -20,7 +21,7 @@ public class Film {
         this.runningTime = runningTime;
         this.budget = budget;
         this.boxOffice = boxOffice;
-        this.releaseDate2 = releaseDate2;
+        this.releaseDate = releaseDate2;
         this.directedBy = directedBy;
         this.producedBy = producedBy;
         this.musicBy = musicBy;
@@ -66,12 +67,12 @@ public class Film {
         this.boxOffice = boxOffice;
     }
 
-    public String getReleaseDate2() {
-        return releaseDate2;
+    public String getReleaseDate() {
+        return releaseDate;
     }
 
-    public void setReleaseDate2(String releaseDate2) {
-        this.releaseDate2 = releaseDate2;
+    public void setReleaseDate(String releaseDate) {
+        this.releaseDate = releaseDate;
     }
 
     public String getDirectedBy() {
