@@ -48,7 +48,7 @@ public class FilmAddActivity extends AppCompatActivity {
     }
 
     private void addFilm() {
-        if(film == null) {
+        if (film == null) {
             film = new Film();
         }
         film.setTitle(title.getText().toString());
@@ -75,7 +75,7 @@ public class FilmAddActivity extends AppCompatActivity {
         budget.setEnabled(editable);
         boxOffice.setEnabled(editable);
         releaseDate.setEnabled(editable);
-        if(editable){
+        if (editable) {
             addButt.setVisibility(View.VISIBLE);
         } else {
             addButt.setVisibility(View.INVISIBLE);

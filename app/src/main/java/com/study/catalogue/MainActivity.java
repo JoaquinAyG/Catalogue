@@ -22,11 +22,21 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private RecyclerView recyclerView;
-    private Film selectedFilm = null;
     List<Film> filmList = new ArrayList<>();
     FilmAdapter adapter;
-
+    ActivityResultLauncher<Intent> activityResultLauncher = registerForActivityResult(
+            new ActivityResultContracts.StartActivityForResult(),
+            result -> {
+                if (result.getResultCode() == RESULT_OK) {
+                    Intent data = result.getData();
+                    if (data != null) {
+                        Film film = (Film) data.getSerializableExtra("film");
+                        addFilm(film);
+                    }
+                }
+            });
+    private RecyclerView recyclerView;
+    private Film selectedFilm = null;
 
     @SuppressLint("NotifyDataSetChanged")
     @Override
@@ -65,18 +75,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    ActivityResultLauncher<Intent> activityResultLauncher = registerForActivityResult(
-            new ActivityResultContracts.StartActivityForResult(),
-            result -> {
-                if (result.getResultCode() == RESULT_OK) {
-                    Intent data = result.getData();
-                    if (data != null) {
-                        Film film = (Film) data.getSerializableExtra("film");
-                        addFilm(film);
-                    }
-                }
-            });
-
     private void openFilmUpdateActivity() {
         Intent intent = new Intent(this, FilmAddActivity.class);
         intent.putExtra("film", selectedFilm);
@@ -90,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
         activityResultLauncher.launch(intent);
     }
 
-    private void openFilmViewActivity(){
+    private void openFilmViewActivity() {
         Intent intent = new Intent(this, FilmAddActivity.class);
         intent.putExtra("film", selectedFilm);
         intent.putExtra(Constants.EDITABLE, false);
@@ -99,7 +97,7 @@ public class MainActivity extends AppCompatActivity {
 
     @SuppressLint("NotifyDataSetChanged")
     public void addFilm(Film film) {
-        if(film.getId() == -1){
+        if (film.getId() == -1) {
             film.setId(getNextId());
         } else {
             filmList.stream().filter(film1 -> film.getId() == film1.getId()).findAny().ifPresent(onSearch -> filmList.remove(onSearch));
