@@ -27,6 +27,10 @@ public class Film implements Serializable {
         this.musicBy = musicBy;
     }
 
+    public Film() {
+
+    }
+
     public int getId() {
         return id;
     }
